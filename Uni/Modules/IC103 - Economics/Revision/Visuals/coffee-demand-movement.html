@@ -1,0 +1,81 @@
+<div id="coffee-demand-movement" style="display:grid;gap:calc(var(--font-size-base)*0.75)">
+  <h3>Цена кофе меняется · остальные условия неизменны</h3>
+  <div class="viz-controls">
+    <label class="form-label" for="coffee-price">Цена P: <output id="coffee-price-value" class="tabular-nums">£2</output>
+      <input class="form-range" id="coffee-price" type="range" min="1" max="5" step="0.5" value="2" aria-label="Цена одной чашки кофе в фунтах">
+    </label>
+  </div>
+  <div id="coffee-plot" style="width:100%;min-width:0"></div>
+  <div class="tabular-nums" aria-live="polite" id="coffee-detail">A: £4 → 20 чашек · B: £2 → 40 чашек в день</div>
+</div>
+<style>
+#coffee-demand-movement .coffee-chart{display:block;width:100%;overflow:visible}
+#coffee-demand-movement .coffee-chart text{fill:var(--foreground);font-size:12px;font-weight:400}
+#coffee-demand-movement .coffee-chart .curve{stroke:var(--viz-series-1);stroke-width:3;fill:none}
+#coffee-demand-movement .coffee-chart .structure{stroke:var(--border);stroke-width:1;fill:none}
+#coffee-demand-movement .coffee-chart .guide{stroke:var(--border);stroke-width:1;fill:none}
+#coffee-demand-movement .coffee-chart .original{stroke:var(--viz-series-1);stroke-width:2;fill:var(--background)}
+#coffee-demand-movement .coffee-chart .moving{fill:var(--viz-series-1);stroke:none}
+</style>
+<script>
+(function(){
+  const root=document.getElementById('coffee-demand-movement');
+  const plot=root.querySelector('#coffee-plot');
+  const input=root.querySelector('#coffee-price');
+  const out=root.querySelector('#coffee-price-value');
+  const detail=root.querySelector('#coffee-detail');
+  const ns='http://www.w3.org/2000/svg';
+  const observations=[1,2,3,4,5].map(p=>({p:p,q:60-10*p}));
+  const references=[{p:0,q:0},{p:6,q:60}];
+  const all=observations.concat(references);
+  const qmin=Math.min(...all.map(d=>d.q)),qmax=Math.max(...all.map(d=>d.q));
+  const pmin=Math.min(...all.map(d=>d.p)),pmax=Math.max(...all.map(d=>d.p));
+  const pref=window.matchMedia('(prefers-reduced-motion: reduce)');
+  let price=2,frame=null,animated=2;
+  function el(tag,attrs,text){const n=document.createElementNS(ns,tag);Object.entries(attrs||{}).forEach(([k,v])=>n.setAttribute(k,String(v)));if(text!==undefined)n.textContent=text;return n;}
+  function fmt(x){return Number(x.toFixed(1)).toString();}
+  function draw(p){
+    const width=Math.max(260,Math.floor(plot.getBoundingClientRect().width));
+    const height=300,left=68,right=22,top=38,bottom=64;
+    const x=q=>left+(q-qmin)/(qmax-qmin)*(width-left-right);
+    const y=v=>height-bottom-(v-pmin)/(pmax-pmin)*(height-top-bottom);
+    const svg=el('svg',{viewBox:'0 0 '+width+' '+height,role:'img','aria-labelledby':'coffee-title coffee-desc',class:'coffee-chart'});
+    svg.append(el('title',{id:'coffee-title'},'Движение вдоль одной кривой спроса на кофе'));
+    svg.append(el('desc',{id:'coffee-desc'},'Цена по вертикали, чашки в день по горизонтали. Кривая D неизменна. При цене '+fmt(p)+' фунтов количество спроса '+fmt(60-10*p)+'. Исходная точка A: цена 4 фунта, 20 чашек.'));
+    svg.append(el('rect',{'data-chart-frame':'',x:left,y:top,width:width-left-right,height:height-top-bottom,class:'structure'}));
+    [0,2,4,6].forEach(v=>{svg.append(el('line',{x1:left,y1:y(v),x2:width-right,y2:y(v),class:'structure'}));svg.append(el('text',{x:left-10,y:y(v)+4,'text-anchor':'end'},fmt(v)));});
+    [0,20,40,60].forEach(v=>{svg.append(el('line',{x1:x(v),y1:top,x2:x(v),y2:height-bottom,class:'structure'}));svg.append(el('text',{x:x(v),y:height-bottom+20,'text-anchor':v===0?'start':v===60?'end':'middle'},fmt(v)));});
+    svg.append(el('text',{x:10,y:19,class:'axis-title','data-axis':'y'},'P · £ за чашку'));
+    svg.append(el('text',{x:left+(width-left-right)/2,y:height-10,class:'axis-title','data-axis':'x','text-anchor':'middle'},'Q · чашек в день'));
+    svg.append(el('path',{d:observations.map((d,i)=>(i?'L':'M')+x(d.q)+','+y(d.p)).join(' '),class:'curve'}));
+    svg.append(el('text',{x:x(50)-3,y:y(1)-12,'text-anchor':'end'},'D · спрос'));
+    const q=60-10*p;
+    svg.append(el('line',{x1:left,y1:y(p),x2:x(q),y2:y(p),class:'guide'}));
+    svg.append(el('line',{x1:x(q),y1:y(p),x2:x(q),y2:height-bottom,class:'guide'}));
+    svg.append(el('circle',{cx:x(20),cy:y(4),r:5,class:'original'}));
+    if(Math.abs(p-4)>0.6)svg.append(el('text',{x:x(20)+10,y:y(4)-10},'A'));
+    svg.append(el('circle',{cx:x(q),cy:y(p),r:6,class:'moving'}));
+    const label=Math.abs(p-4)<0.02?'B = A':'B';
+    svg.append(el('text',{x:x(q)+10,y:y(p)-10},label));
+    plot.replaceChildren(svg);
+  }
+  function apply(next,animate){
+    price=Math.min(5,Math.max(1,next));input.value=String(price);out.value='£'+fmt(price);out.textContent='£'+fmt(price);
+    detail.textContent='A: £4 → 20 чашек · B: £'+fmt(price)+' → '+fmt(60-10*price)+' чашек в день';
+    if(frame!==null)cancelAnimationFrame(frame);
+    if(!animate||pref.matches){animated=price;draw(price);return;}
+    const begin=performance.now(),from=animated,target=price;
+    const step=now=>{const t=Math.min(1,(now-begin)/220);animated=from+(target-from)*(1-Math.pow(1-t,3));draw(animated);if(t<1)frame=requestAnimationFrame(step);else frame=null;};
+    frame=requestAnimationFrame(step);
+  }
+  input.addEventListener('input',()=>{
+    apply(Number(input.value),true);
+    if(window.openai&&typeof window.openai.setWidgetState==='function')window.openai.setWidgetState({modelContent:{coffeePrice:price,quantityDemanded:60-10*price,curve:'unchanged demand curve'},privateContent:{price:price}}).catch(()=>{});
+  });
+  const state=window.openai&&window.openai.widgetState;
+  const saved=state&&state.privateContent&&state.privateContent.price;
+  apply(typeof saved==='number'&&Number.isFinite(saved)?saved:2,false);
+  new ResizeObserver(()=>draw(animated)).observe(plot);
+  window.addEventListener('openai:set_globals',event=>{const v=event.detail&&event.detail.globals&&event.detail.globals.widgetState;const p=v&&v.privateContent&&v.privateContent.price;if(typeof p==='number'&&Number.isFinite(p))apply(p,false);});
+})();
+</script>

@@ -1,0 +1,118 @@
+﻿Lecture,Term,POS,Meaning,Example,Note
+L01,"to lend (lent, lent)",verb,To give money that must be given back.,The bank is lending you that money.,lend = I give. borrow = I take. Most common mix-up.
+L01,to borrow,verb,To take money that you must give back.,"When you are young you spend more than you earn, so you borrow.",
+L01,to repay,verb,To pay money back.,Companies repay it from future profits.,
+L01,to issue,verb,"To officially create and offer something, like bonds or shares.",Governments borrow by issuing bonds.,
+L01,to raise money,verb phrase,To collect money for a purpose.,Companies raise money now to invest and grow.,
+L01,to fund,verb,To provide money for something.,Governments borrow to fund schools and roads.,
+L01,to allocate,verb,To decide where something should go and send it there.,Price is the signal that allocates resources.,Very common in IC103.
+L01,to facilitate,verb,To make something easier or possible.,There is a system that facilitates all of this.,
+L01,to earn,verb,"To get money by working, or to get a return on money.",Mid-life: you earn a bit more than you spend.,
+L01,to demand,verb,"To ask for something firmly, as a condition.",Investors demand more return when risk is higher.,
+L01,to offset,verb,"To cancel out, by having something equal on the other side.",A loss on one side is cancelled by a gain on the other.,
+L01,to lock in,verb phrase,"To fix a price or rate now, so it cannot change later.",An airline can lock in its jet-fuel cost.,
+L01,to track,verb,To follow and copy the movement of something.,A derivative is priced off the asset it tracks.,
+L01,"to rise (rose, risen)",verb,"To go up, by itself.","When rates rise, bond prices fall.",rise = it goes up. raise = I lift something. Prices rise; the bank raises rates.
+L01,"to fall (fell, fallen)",verb,To go down.,Price falls from GBP 100 to GBP 91.58.,
+L01,steady / steadily,adjective / adverb,Not changing much; at the same level.,"Income goes up and down, but you want steady spending.",
+L01,to fluctuate,verb,"To go up and down repeatedly, in an unstable way.",Crypto fluctuates a lot.,
+L01,to shrink,verb,To make smaller.,"Add up every future cash flow, but shrink each one.",
+L01,trade-off,noun,A situation where more of one thing means less of another.,Higher return comes with more risk. That trade-off is Pillar 2.,Essential essay word.
+L01,trend,noun,The general direction something moves over time.,I think this is a temporary trend.,
+L01,significantly,adverb,By a large amount; in a way that matters.,"The same need, but scaled up very significantly.",
+L01,to assume / assumption,verb / noun,"To accept something as true without proving it, so you can continue.",Perfect competition assumes perfect information.,You will need this in every economics essay.
+L01,evidence,noun,Facts or data that show something is true.,Base it on real data and cite a reputable source.,
+L01,to cite,verb,To name the source you took information from.,Cite a reputable source.,
+L01,reputable,adjective,Trusted and respected.,"Make sure it is a reputable source, not social media.",
+L01,judgment,noun,The ability to decide well when the answer is not obvious.,"More value on judgment, client trust, and asking the right questions.",
+L01,critical / critically,adjective / adverb,Examining something carefully instead of accepting it.,"""Critical means a lot of iterations. Why this? Why that?""",
+L01,in the long run / in the short run,phrase,Over a long period / over a short period.,"In the long run, equities returned 5.3% a year.",Everywhere in IC103.
+L01,irrespective of,phrase,No matter what; without it making a difference.,Irrespective of what career you are thinking of pursuing.,
+L01,to take into account,verb phrase,To include something when you think or calculate.,You have got to take the fact that AI is evolving into account.,
+L01,to pursue,verb,To try to achieve or follow a career or project.,A strong footing to pursue a finance career.,
+L01,to fall behind,verb phrase,"To do less than you should, and end up late.",If you are falling behind and have not done anything for two weeks.,
+L01,foundations,noun (plural),The basic ideas everything else is built on.,"""These foundations will not change in the next 30 years.""",
+L02,to own,verb,To have as your property.,The left side of a balance sheet is what the firm OWNS.,"own (asset) vs owe (liability). One letter apart, opposite meaning."
+L02,to owe,verb,To have to pay someone.,Liabilities are what it OWES.,
+L02,to balance,verb,To be equal on both sides.,The two sides must always balance.,
+L02,to amplify / to magnify,verb,To make bigger or stronger.,Leverage magnifies returns AND losses.,
+L02,to absorb,verb,To take in and soak up.,Capital absorbs the loss first.,
+L02,dilemma,noun,"A hard choice between two options, both with drawbacks.",The right-hand side is a dilemma: debt or equity.,
+L02,to inherit,verb,To receive something you did not choose.,You largely inherit your business risk.,"Paired with ""to choose"" on the slide."
+L02,deliberately,adverb,"On purpose, by choice.",You deliberately choose your financial risk.,
+L02,friction,noun,Something in the real world that stops the perfect version from holding.,The real world adds two frictions: the tax shield and distress cost.,Common in economic models.
+L02,tax-deductible,adjective,Able to be taken off your income before tax is calculated.,"Interest is tax-deductible, so debt lowers the tax bill.",
+L02,distress,noun,"Serious trouble, close to failing.",Those who cannot roll it over affordably tip into distress.,
+L02,to collapse,verb,To fail completely and suddenly.,Carillion collapsed owing billions.,
+L02,to rank (behind / before),verb,To have a position in an order of priority.,Mezzanine debt ranks behind senior lenders.,Needed for the waterfall.
+L02,obligation,noun,Something you are required to do.,Equity has no obligation to pay anything.,
+L02,optional,adjective,Not required; you may choose.,Dividends are optional.,
+L02,upside,noun,The potential gain if things go well.,Equity owns all the growth and all the upside.,
+L02,capped,adjective,Limited to a maximum.,Debt's return is capped at its interest.,
+L02,hybrid,noun,Something that mixes two different types.,A preference share is a debt-equity hybrid.,
+L02,counterparty,noun,The other side in a deal.,A principal stands in the middle as counterparty.,
+L02,to bear (risk),verb,To carry and suffer.,Each transformer bears the risk.,
+L02,spread,noun,"The gap between two prices or rates, kept as profit.",It earns the spread rather than a simple fee.,
+L02,cushion,noun,A buffer that protects you from a blow.,A wafer-thin ~5% cushion.,
+L02,wafer-thin,adjective,Extremely thin.,Lloyds has a wafer-thin cushion.,
+L03,to transform,verb,To change something into something quite different.,A bank transforms short safe deposits into long risky loans.,
+L03,to withdraw / withdrawal,verb / noun,To take money out.,It must always find cash for today's withdrawals.,Opposite: to deposit.
+L03,fragile,adjective,Easily broken.,A bank is fragile.,
+L03,to flee,verb,"To run away, fast.",Deposits now flee faster than the rulebook assumed.,
+L03,to spark,verb,To set off suddenly.,The run was sparked on group chats and X.,
+L03,to distinguish (X from Y),verb phrase,To tell the difference.,"""A classic problem is to distinguish illiquidity from insolvency.""",Very common exam instruction word.
+L03,sound,adjective,Healthy and reliable; not damaged.,Its loans are sound.,"NOT ""a sound you hear"". Here it means healthy."
+L03,bust,adjective,Completely out of money; finished.,Genuinely bust: it owes more than it owns.,Informal but used in the slides.
+L03,to tame,verb,To bring under control.,Together they tame the fragility.,
+L03,to topple,verb,To knock over.,A bank today is harder to topple than in 2007.,
+L03,backstop,noun,The final support behind everything else.,The central bank is the final backstop.,
+L03,to steer,verb,To guide the direction of something.,The cost of borrowing is how the central bank steers the money supply.,
+L03,to lubricate,verb,To make something run smoothly.,Banks provide the credit that lubricates the economy.,
+L03,conflict of interest,noun phrase,When your duties to two sides clash.,Whose side is it on?,
+L03,to leak,verb,To escape where it should not go.,Information that must not leak.,
+L03,barrier,noun,Something that blocks passage.,Chinese walls are strict information barriers.,
+L03,to separate,verb,To keep apart.,The US legally separates commercial and investment banking.,
+L03,to repeal,verb,To cancel a law.,Gramm-Leach-Bliley tears the wall down.,
+L03,reckoning,noun,The moment the consequences arrive.,2008: the reckoning.,
+L04,to swap,verb,To exchange one thing for another.,Each note was swappable for a fixed amount of gold.,
+L04,to back (something),verb,To support it with something of value.,It is not backed by gold.,
+L04,to hold its worth,verb phrase,To keep its value over time.,A store of value holds its worth.,
+L04,to leak,verb,To lose slowly.,Money is designed to leak slowly.,
+L04,to chase,verb,To run after.,More money chasing the same goods.,The standard phrase for inflation.
+L04,to dump,verb,"To get rid of fast, without caring about the price.",Everyone dumps the currency.,
+L04,abstract,adjective,Not physical; existing only as an idea.,Money keeps getting more abstract.,
+L04,to slash (a price),verb,To cut sharply.,To sell a house fast you must slash the price.,
+L04,tied up,adjective,"Not available, because it is locked into something.",Rich but illiquid: all your money tied up in property.,
+L04,to evaporate,verb,To disappear completely.,"The moment everyone reaches for cash, liquidity evaporates.",
+L04,to widen,verb,To get bigger (of a gap).,The gap between buying and selling widened tenfold.,Opposite: to narrow.
+L04,tenfold,adverb,By ten times.,It widened tenfold.,"Also twofold, threefold."
+L04,to come due,verb phrase,To reach the day it must be paid.,"Bills come due in cash, not in assets.",
+L04,to shut the doors,verb phrase,To stop letting people take their money out.,UK property funds had to shut their doors to withdrawals.,
+L04,vulnerable,adjective,Easily harmed; needing protection.,Cash still matters for the vulnerable.,
+L04,plumbing,noun,The hidden machinery that makes a system work.,The plumbing behind a cashless payment.,"Figurative, common in finance writing."
+L04,to verify,verb,To check that something is true.,Thousands of computers race to verify the payment.,
+L04,to rewrite history,verb phrase,To change the record of what happened.,"Each block is locked to the one before, so nobody can rewrite history.",
+L04,the catch,noun,The hidden drawback.,The catch: no deposit insurance.,Very common in spoken English.
+L04,peril,noun,Serious danger.,The peril: privacy and the banks.,
+L05,to assemble,verb,To put the pieces together.,Four lectures built the pieces. Today we assemble them.,
+L05,to channel,verb,To direct along a particular path.,Banks and markets channel the money.,
+L05,iron rule / iron law,noun phrase,A rule that has no exceptions.,One sector's deficit must be another's surplus. Always.,
+L05,it cannot be otherwise,phrase,There is no other possibility.,The iron rule we will prove today.,
+L05,to bear the risk,verb phrase,To be the one who suffers the loss.,Households bear ALL the risk.,
+L05,in the end,phrase,"Finally, after everything else.",Every loss lands on people in the end.,
+L05,to soar,verb,To rise very fast and very high.,Greek interest rates soared.,"Stronger than ""to rise""."
+L05,to jump,verb,To rise suddenly.,30-year yields jumped from under 4% to about 5% in three days.,
+L05,persistent,adjective,"Continuing for a long time, not going away.",China and Germany run persistent surpluses.,
+L05,to run (a deficit / a surplus),verb,"To have one, over a period of time.",The government runs a deficit.,Fixed collocation. Learn it as a whole.
+L05,to sum to zero / to add up to zero,verb phrase,To cancel out exactly when added together.,The balances always sum to zero.,
+L05,locked,adjective,"Fixed, with no freedom to change.",Know three balances and the fourth is locked.,
+L05,to make room,verb phrase,To create space for something else.,Cut one sector's deficit and another balance must move to make room.,
+L05,to snap,verb,To break suddenly.,"When confidence snaps, the flows reverse.",
+L05,to reverse,verb,To turn the other way.,A sector cut off overnight: the flows reverse.,
+L05,overnight,adverb,"Very suddenly, in no time at all.",A sector can be cut off overnight.,
+L05,brutal,adjective,Harsh and without mercy.,Reversals are fast and brutal.,
+L05,to dodge,verb,To avoid by moving quickly.,Chasing returns and dodging sudden stops.,
+L05,to anchor,verb,To hold something firmly in place.,The risk-free rate anchors all of finance.,
+L05,at heart,phrase,In its most basic nature.,"Every one of these jobs is, at heart, reading the four sectors.",
+L05,glut,noun,Far too much of something.,The global savings glut.,
+L05,to inflate (a bubble),verb,To make something swell up beyond its real value.,It helped inflate the 2008 housing bubble.,

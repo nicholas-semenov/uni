@@ -1,0 +1,31 @@
+﻿Lecture,Term,POS,Meaning,Example,Note
+L01,to denote,verb,To represent with a symbol.,We denote a percentage by x%.,
+L01,arbitrary,adjective,Any at all; chosen freely.,"If a, b and c are arbitrary numbers…","In maths it means ""any"", not ""random""."
+L01,non-negative,adjective,Zero or positive.,If a and b are non-negative numbers…,"Includes zero. ""Positive"" does not."
+L01,to hold (of a rule),verb,To be true.,This rule holds for all real numbers.,
+L01,to pay dividends,idiom,To bring a reward later.,The work you put in now will pay dividends later.,"Figurative here, not the finance term."
+L02,rate of change,noun phrase,How fast one quantity changes as another changes.,The derivative is a rate of change.,
+L02,with respect to,phrase,In relation to; measuring against.,Differentiate with respect to x.,Always abbreviated w.r.t.
+L02,necessary condition,noun phrase,"Something that MUST be true, but may not be enough on its own.",f'(c) = 0 is a necessary condition for a maximum.,"Contrast with ""sufficient""."
+L02,sufficient condition,noun phrase,Something that is ENOUGH to guarantee a result.,FOC plus SOC together are sufficient.,necessary ≠ sufficient. Examiners love this pair.
+L02,to verify,verb,To check that something is true.,"To verify this is a maximum, take the second derivative.",
+L02,to solve for,verb phrase,To find the value of a particular unknown.,Set it equal to zero and solve for q.,
+L02,to increase / to decrease,verb,To go up / to go down.,A function may be increasing for some values of x.,
+L02,upward-sloping / downward-sloping,adjective,Going up from left to right / going down.,The graph of the first derivative is downward-sloping.,
+L03,to evaluate,verb,To work out the numerical value.,Use the Fundamental Theorem to evaluate the integral.,
+L03,limits (of an integral),noun,The two end values a and b of a definite integral.,The limits are written above and below the integral sign.,
+L03,area under the curve,noun phrase,The space between a graph and the horizontal axis.,The definite integral gives the area under the curve.,
+L03,continuous,adjective,With no breaks or jumps.,Let f(x) and g(x) be continuous functions.,
+L03,examinable,adjective,Able to be asked about in the exam.,"Several integration slides are marked ""not examinable"".",Check this word on every slide. It saves you work.
+L04,cash flow,noun phrase,Money received or paid at a point in time.,A project generates cash flows cᵢ at time i.,
+L04,outlay,noun,The money you pay out at the start.,"An initial outlay of $50,000.",
+L04,benchmark,noun,A standard you compare against.,The required rate of return is the benchmark.,
+L04,to accept / to reject,verb,To take on / to turn down.,Accept the project if IRR > required return.,The decision pair for NPV and IRR questions.
+L04,level (of cash flows),adjective,Constant; the same each period.,An annuity is a series of level cash flows.,"Not ""level"" as in height."
+L04,to skip,verb,To miss out.,"In an annuity, none is skipped.",
+L04,principal,noun,The original sum borrowed or lent.,"For a Consol bond, the principal is never repaid.","NOT ""principal"" as in main, and not the IC101 ""principal"" intermediary."
+L05,to consider,verb,To think about; to treat as.,A matrix is considered as one mathematical object.,
+L05,simultaneously,adverb,All at the same time.,A solution satisfies all the equations simultaneously.,
+L05,respectively,adverb,In the order just mentioned.,"Returns in year 1 and 2 are $30,000 and $40,000 respectively.",Very common in exam questions. Read carefully.
+L05,for clarity,phrase,To make it clearer.,"For clarity, we show the order below the matrix.",
+L05,to rely upon,verb phrase,To depend on.,Many future courses rely upon the foundations built here.,

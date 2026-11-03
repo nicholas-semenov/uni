@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "931e974f8388d039",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d75c37c8c31b987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee88e6b0bfd9531",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23d5a7f610166683",
+    "type": "split",
+    "children": [
+      {
+        "id": "a699497a3ca1cad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c74a5ee416cc49b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "667b5d9e5cc68f12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "aeefb1f05dc1b386",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.74798583984375
+  },
+  "right": {
+    "id": "ea08f54c0f2bca63",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b8f50cacdb5c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8596050daa0682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uni/info/Models-info/Year-1/IC101 — Introductory Securities and Markets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "deb6055828f824dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Uni/info/Models-info/Year-1/IC101 — Introductory Securities and Markets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1a731b59db4868de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e7f1daa63ed8dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4129ece16c25eb92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uni/info/Models-info/Year-1/IC101 — Introductory Securities and Markets.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9ee88e6b0bfd9531",
+  "lastOpenFiles": [
+    "Uni/Modules/IC103 - Economics/some_material/EC113 2022-3 A 800.pdf",
+    "Uni/Modules/IC103 - Economics/some_material/EC114 2023-4 A 800.pdf",
+    "Uni/Modules/IC103 - Economics/Lectures/L02 — Elasticity and Consumer Choice/Attachments/IC103 L02 — Slides.pdf",
+    "Uni/Modules/IC103 - Economics/Lectures/L01 — Intro, Demand and Supply/Attachments/IC103 L01 — Slides.pdf",
+    "Uni/Modules/IC104 - Math/some_material/IC104 — some_material.md",
+    "Uni/Modules/IC103 - Economics/some_material/IC103 — some_material.md",
+    "Uni/Modules/IC101 - Finance/some_material/IC101 — some_material.md",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/P4-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/P3-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/P2-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/P1-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/MM3-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/MM2-clean.docx",
+    "Uni/Modules/IC104 - Math/some_material/Bloomsbury Quantitative Methods 4e/MCQ/MM1-clean.docx",
+    "Uni/Modules/IC103 - Economics/Seminars/S04 - Market Structures/IC103 S04 — Market Structures.md",
+    "Uni/Modules/IC101 - Finance/Lectures/Sustainable Finance/IC101 Sustainable Finance.md",
+    "Uni/Modules/IC103 - Economics/Seminars/S03 - Theory of Production and Costs/IC103 S03 — Theory of Production and Costs.md",
+    "Uni/Modules/IC101 - Finance/Seminars/S04 — Money and Liquidity/IC101 S04 — Money and Liquidity.md",
+    "Uni/Modules/IC103 - Economics/Lectures/L01 — Intro, Demand and Supply/IC103 L01 — Intro, Demand and Supply.md",
+    "Uni/Modules/IC103 - Economics/Lectures/L01 — Intro, Demand and Supply/IC103 L01 + S01 — Deep Notes.md",
+    "Uni/Modules/IC103 - Economics/Lectures/L01 — Intro, Demand and Supply/IC103 L01 + S01 — Quick Review.md",
+    "Uni/Modules/IC103 - Economics/Lectures/L01 — Intro, Demand and Supply/Attachments/IC103 L01 — Transcript.md",
+    "Uni/Modules/IC103 - Economics/Lectures/L02 — Elasticity and Consumer Choice/IC103 L02 — Elasticity and Consumer Choice.md",
+    "Uni/Modules/IC103 - Economics/Revision/Attempts/IC103 L01 — Diagnostic — 2026-11-03.md",
+    "Uni/Modules/IC104 - Math/Revision/IC104 — Revision Checklist.md",
+    "Uni/Modules/IC104 - Math/Revision/IC104 L01 — Parabola Practice.md",
+    "Uni/Modules/IC104 - Math/Revision/IC104 L01 — Exponentials and Logarithms Practice.md",
+    "Uni/Modules/IC104 - Math/Revision/IC104 — Tutor Log.md",
+    "Uni/Info/Цели — Семестр 1.md",
+    "Uni/Info/Тьютор — Прогресс и следующий шаг.md",
+    "Uni/Info/Правила университета.md",
+    "Uni/Info/Модули программы.md",
+    "Uni/Info/Дедлайны.md",
+    "Uni/Info/Revision Pipeline.md",
+    "Uni/Info/Reading Week — 2–8 ноября 2026.md",
+    "Uni/Modules/IC101 - Finance/Lectures/L01 — Introductory Securities & Markets/IC101 L01 — Introductory Securities & Markets.md",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — PE Formula.png",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — PB Formula.png",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — NPV Formula.png",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — Finance Flow.png",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — DCF Formula.png",
+    "Uni/Modules/IC101 - Finance/Revision/Attachments/IC101 L01 — Bond Pricing Example.png",
+    "Screenshot 2026-10-14 at 18.02.14.png"
+  ]
+}

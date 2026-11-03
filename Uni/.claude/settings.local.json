@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.reading.ac.uk)",
+      "Bash(exit 1)",
+      "Bash(find . -iname '*Transcript*.md' -print0)",
+      "Bash(xargs -0 grep -n -o -i -E '.{0,180}\\\\b\\(mid-?term|mid term|practice test|class test|in-class\\)\\\\b.{0,180}')",
+      "Bash(sed 's#^\\\\./##')",
+      "Bash(python3 -I - \"Practice tests/small_test_L01.mhtml\")",
+      "Read(//Users/nicholas/MyFolder/Obsidian/Finance/**)",
+      "Bash(ls -la)",
+      "Bash(find . -type d -not -path '*/.obsidian/*' -not -path '*/.git/*' -not -path '*/.trash/*' -maxdepth 4)"
+    ]
+  }
+}

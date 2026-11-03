@@ -1,0 +1,133 @@
+﻿Lecture,Topic,Term,POS,Meaning,Example,Related,Trap
+L01,Core ideas,economics,noun,The study of how individuals and society make choices when resources are limited.,"Because resources are limited, we cannot satisfy every want.",scarcity; choice,
+L01,Core ideas,scarcity,noun,"Resources are limited, but human wants are not.",Scarcity means choices must be made about how resources are allocated.,choice; trade-off,THE starting point of the whole subject: scarcity → choice → trade-off.
+L01,Core ideas,trade-off,noun,Choosing more of one thing usually means giving up something else.,A student trades off study against leisure.,opportunity cost,
+L01,Core ideas,opportunity cost,noun phrase,The value of the next-best alternative you give up when making a choice.,Study for a Master's instead of working: the opportunity cost includes the income you gave up.,trade-off,Not always money. Time and other alternatives count too.
+L01,Core ideas,factors of production,noun phrase,"The resources used to produce things: land, labour and capital.","Land, labour and capital are the three factors.",land; labour; capital,
+L01,Core ideas,land,noun,Natural resources used in production.,"Land, oil, minerals and water.",factors of production,
+L01,Core ideas,labour,noun,Human physical and mental effort used in production.,"Workers, managers and designers.",factors of production,
+L01,Core ideas,capital,noun,Equipment and structures used to produce goods and services.,"Machines, factories and technology.",factors of production,In IC103 capital = physical equipment (K). In IC101 it meant money. Different meaning.
+L01,Core ideas,to allocate,verb,To decide where resources should go.,Scarcity means choices must be made about how resources are allocated.,allocation,
+L01,Core ideas,efficiency,noun,Getting the most from available resources.,Efficiency is about the size of the cake.,vs equity,
+L01,Core ideas,equity,noun,How resources and outcomes are distributed.,Equity is about how the cake is shared.,vs efficiency,In IC103 equity = fairness. In IC101 equity = ownership of a company. Totally different.
+L01,Core ideas,marginal benefit,noun phrase,The benefit from one additional unit.,Do more when marginal benefit is greater than marginal cost.,marginal cost; at the margin,
+L01,Core ideas,marginal cost,noun phrase,The cost of one additional unit.,An airline asks: what is the extra cost of selling one more seat?,marginal benefit,
+L01,Core ideas,to think at the margin,verb phrase,"To decide by comparing the cost and benefit of ONE more unit, not the total.",Should the airline sell the last empty seat at a discount?,marginal benefit/cost,"""Marginal"" always means ""one more unit"". It is the most used word in the module."
+L01,Core ideas,incentive,noun,Something that encourages people to act in a certain way.,Prices are incentives: a higher price discourages buyers but encourages sellers.,,
+L01,Core ideas,invisible hand,noun phrase,Adam Smith's idea that buyers and sellers pursuing their own interests can coordinate the economy without central direction.,Separate decisions can help coordinate economic activity.,Adam Smith,
+L01,Core ideas,microeconomics,noun,"The study of individual consumers, firms and markets.",Why does quantity demanded fall when price rises?,opposite: macroeconomics,
+L01,Core ideas,macroeconomics,noun,The study of the economy as a whole.,Why does inflation rise? What causes unemployment?,opposite: microeconomics,
+L01,Core ideas,ceteris paribus,phrase (Latin),Holding all other things constant.,"Ceteris paribus, when price rises, quantity demanded falls.",law of demand,"Latin for ""other things equal"". It appears in almost every definition."
+L01,Demand & supply,market,noun,A group of buyers and sellers of a particular good or service.,Local food markets or online marketplaces.,demand; supply,
+L01,Demand & supply,demand,noun,How much consumers are willing and able to buy at different prices.,Demand is the buyers' side of the market.,opposite: supply,
+L01,Demand & supply,supply,noun,How much producers are willing and able to sell at different prices.,Supply is the sellers' side of the market.,opposite: demand,
+L01,Demand & supply,law of demand,noun phrase,"Ceteris paribus, price and quantity demanded move in OPPOSITE directions.","When price rises, quantity demanded falls.",demand curve,
+L01,Demand & supply,law of supply,noun phrase,"Ceteris paribus, price and quantity supplied move in the SAME direction.","When price rises, quantity supplied rises.",supply curve,
+L01,Demand & supply,quantity demanded,noun phrase,The amount consumers are willing and able to buy AT A PARTICULAR PRICE.,"At 50p per kg, market quantity demanded is 700,000 tonnes.",vs demand,"THE exam trap: a price fall raises QUANTITY DEMANDED, it does not ""increase demand""."
+L01,Demand & supply,quantity supplied,noun phrase,The amount sellers are willing and able to sell AT A PARTICULAR PRICE.,A higher price raises quantity supplied.,vs supply,Same trap as quantity demanded. Price change ≠ change in supply.
+L01,Demand & supply,demand schedule,noun phrase,A table of prices and the quantity demanded at each one.,The demand schedule becomes the demand curve.,demand curve,
+L01,Demand & supply,demand curve,noun phrase,A downward-sloping line showing quantity demanded at each price.,"Price on the vertical axis, quantity on the horizontal axis.",law of demand,
+L01,Demand & supply,supply curve,noun phrase,An upward-sloping line showing quantity supplied at each price.,The supply curve slopes upward.,law of supply,
+L01,Demand & supply,movement along the curve,noun phrase,A change caused by the good's OWN price. It changes quantity demanded/supplied.,Own-price change → movement along the curve.,vs shift,THE most examined distinction in Lecture 1. Own price = movement.
+L01,Demand & supply,shift of the curve,noun phrase,A change caused by ANY OTHER determinant. It changes demand/supply itself.,A rise in income shifts the whole demand curve.,vs movement,Anything except own price = shift.
+L01,Demand & supply,normal good,noun phrase,A good you buy MORE of when your income rises.,Income up → demand for a normal good up.,opposite: inferior good,
+L01,Demand & supply,inferior good,noun phrase,A good you buy LESS of when your income rises.,It does not mean bad quality. It means you switch away as you get richer.,opposite: normal good,"NOT ""bad quality"". Only about how demand responds to income."
+L01,Demand & supply,substitutes,noun,Goods you can use instead of each other.,Price of coffee up → demand for tea up.,cross-price elasticity positive,
+L01,Demand & supply,complements,noun,Goods used together.,Price of printers up → demand for ink down.,cross-price elasticity negative,
+L01,Equilibrium,market equilibrium,noun phrase,Where quantity demanded equals quantity supplied.,At equilibrium there is no pressure for price to change.,equilibrium price/quantity,
+L01,Equilibrium,equilibrium price,noun phrase,The price at which buyers want to buy exactly what sellers want to sell.,Set demand equal to supply and solve.,market clears,
+L01,Equilibrium,to clear (a market),verb,To have no unsold goods and no unmet demand.,The market clears at equilibrium.,equilibrium,
+L01,Equilibrium,surplus / excess supply,noun,Quantity supplied is greater than quantity demanded. Price is ABOVE equilibrium.,"Sellers cannot sell everything, so price tends to fall.",opposite: shortage,
+L01,Equilibrium,shortage / excess demand,noun,Quantity demanded is greater than quantity supplied. Price is BELOW equilibrium.,"Consumers want more than firms are selling, so price tends to rise.",opposite: surplus,
+L02,Elasticity,elasticity,noun,A measure of how much buyers and sellers respond to a change in market conditions.,Elasticity tells us how sensitive demand is to a change in price.,PED; PES; YED; XED,
+L02,Elasticity,price elasticity of demand (PED),noun phrase,The responsiveness of quantity demanded to a change in price. % change in Qd ÷ % change in P.,PED is normally negative because demand curves slope down.,elasticity,"Normally NEGATIVE, but we discuss the absolute value."
+L02,Elasticity,elastic demand,adjective phrase,|PED| greater than 1: quantity responds MORE than proportionally to price.,Luxuries are usually elastic.,opposite: inelastic,
+L02,Elasticity,inelastic demand,adjective phrase,|PED| less than 1: quantity responds LESS than proportionally to price.,Necessities are usually inelastic.,opposite: elastic,
+L02,Elasticity,unit elastic,adjective phrase,|PED| equals 1: the percentage changes are exactly the same.,Total revenue stays the same.,elastic; inelastic,
+L02,Elasticity,perfectly inelastic demand,noun phrase,A vertical demand curve: quantity does not change at all when price changes.,"If price rises, consumers buy exactly the same quantity.",perfectly elastic,
+L02,Elasticity,perfectly elastic demand,noun phrase,A horizontal demand curve: a tiny price rise sends quantity demanded to zero.,This is the demand curve a perfectly competitive firm faces.,perfectly inelastic,
+L02,Elasticity,arc elasticity / midpoint method,noun phrase,"Elasticity measured BETWEEN two points, using the average of the two as the base.",It gives the same answer in both directions: A to B and B to A.,point elasticity,Invented to fix the problem that A→B and B→A gave different answers (-0.66 vs -1.5).
+L02,Elasticity,point elasticity,noun phrase,"Elasticity at a SINGLE point, using the derivative of the demand function.",At a single point the change is infinitesimally small.,arc elasticity,
+L02,Elasticity,determinants of PED,noun phrase,"What makes demand elastic: close substitutes, and whether it is a luxury or a necessity.","The easier a good is to avoid or replace, the more elastic demand is.",PED,
+L02,Elasticity,income elasticity of demand (YED),noun phrase,How quantity demanded responds to a change in income.,Normal goods positive; inferior goods negative.,normal/inferior good,
+L02,Elasticity,cross-price elasticity of demand (XED),noun phrase,How demand for one good responds to the price of ANOTHER good.,Substitutes positive; complements negative.,substitutes; complements,The SIGN tells you the relationship. Positive = substitutes.
+L02,Elasticity,price elasticity of supply (PES),noun phrase,How responsive quantity supplied is to a change in price. Always positive.,"Supply is more elastic in the long run, because producers have time to adjust.",elasticity,
+L02,Elasticity,total revenue (TR),noun phrase,Price times quantity sold. The same number as total consumer expenditure.,TR = P × Q.,total expenditure,"If demand is ELASTIC, a price cut RAISES total revenue. Classic MCQ."
+L02,Elasticity,total consumer expenditure (TE),noun phrase,The amount consumers spend on a good. Equals the firms' total revenue.,It is the area of the rectangle formed by price and quantity.,total revenue,
+L02,Consumer choice,utility,noun,The satisfaction a consumer gets from consuming a good or service.,Rational consumers choose to maximise their utility.,total/marginal utility,
+L02,Consumer choice,total utility (TU),noun phrase,The total satisfaction from all units consumed in a period.,"TU rises as you consume more, but more and more slowly.",marginal utility,
+L02,Consumer choice,marginal utility (MU),noun phrase,The additional satisfaction from consuming ONE extra unit.,MU = ΔTU / ΔQ.,diminishing marginal utility,
+L02,Consumer choice,diminishing marginal utility,noun phrase,"The more of a product you consume, the less extra satisfaction each new unit gives.",The fifth packet of crisps gives less pleasure than the first.,marginal utility,This is WHY the demand curve slopes down.
+L02,Consumer choice,willingness to pay (WTP),noun phrase,The maximum a consumer will pay for a good. The monetary value of utility.,The demand curve can be read as consumers' willingness to pay.,consumer surplus,
+L02,Consumer choice,consumer surplus,noun phrase,The difference between what a consumer WOULD pay and what they ACTUALLY pay.,Consumer surplus is the gain from trade for the buyer.,WTP,
+L02,Consumer choice,marginal consumer surplus (MCS),noun phrase,"MU minus price, for one more unit.","At the optimum, MCS of the last unit is zero.",consumer surplus,
+L02,Consumer choice,equi-marginal principle,noun phrase,Consumers maximise utility by making marginal utility per £1 equal across all goods.,MU_a / P_a = MU_b / P_b.,optimal consumption,"Guaranteed exam formula. Equal MU per pound, not equal MU."
+L02,Indifference,indifference curve,noun phrase,All combinations of two goods that give the consumer the SAME satisfaction.,The consumer is indifferent between any two points on the same curve.,indifference map,
+L02,Indifference,marginal rate of substitution (MRS),noun phrase,The slope of the indifference curve: the rate at which you will swap one good for the other.,MRS usually diminishes as you move along the curve.,indifference curve,
+L02,Indifference,indifference map,noun phrase,A set of indifference curves. Higher curves mean higher satisfaction.,Two indifference curves can never intersect.,indifference curve,Why can they never cross? Because it would mean two different utility levels at one point.
+L02,Indifference,budget line / budget constraint,noun phrase,"All combinations of two goods the consumer can afford, given income and prices.",A change in income shifts it in parallel; a price change rotates it.,optimal consumption,Income change = PARALLEL SHIFT. Price change = ROTATION.
+L02,Indifference,optimal consumption point,noun phrase,Where the budget line is TANGENT to the highest reachable indifference curve.,The consumer chooses the highest curve the budget allows.,tangency,
+L02,Indifference,income-consumption curve,noun phrase,How the chosen combination changes as INCOME changes.,It traces the optimal points as the budget line shifts outward.,price-consumption curve,
+L02,Indifference,price-consumption curve,noun phrase,How the chosen combination changes as the PRICE of one good changes.,Plotting these gives you the demand curve.,deriving demand,
+L02,Indifference,substitution effect,noun phrase,The change in consumption because the good became relatively more expensive.,"Coffee gets dearer, so you switch to tea.",income effect,ALWAYS negative: price up → consumption down. No exceptions.
+L02,Indifference,income effect,noun phrase,The change in consumption because a price change altered your real purchasing power.,A price rise makes you effectively poorer.,substitution effect,"Negative for a NORMAL good, POSITIVE for an inferior good. This is the key pair."
+L02,Indifference,real purchasing power,noun phrase,What your money can actually buy.,"Income has not changed, but the same money now buys less.",income effect,
+L03,Production,theory of the firm,noun phrase,The assumption that a firm aims to maximise profit.,Profit = total revenue − total cost.,profit maximisation,
+L03,Production,fixed factor,noun phrase,An input that cannot be changed in the short run.,Capital (machinery) is usually fixed in the short run.,opposite: variable factor,
+L03,Production,variable factor,noun phrase,An input that CAN be changed.,Labour is usually the variable input.,opposite: fixed factor,
+L03,Production,short run,noun phrase,A period in which at least one factor is FIXED.,"In the short run, capital K is constant.",opposite: long run,"The short run is defined by fixed factors, NOT by calendar time."
+L03,Production,long run,noun phrase,A period in which ALL factors are variable.,"In the long run, both L and K can change.",opposite: short run,
+L03,Production,production function,noun phrase,"The relationship showing how inputs produce output. Q = f(L, K).","L is labour, K is capital.",TPP; APP; MPP,
+L03,Production,total physical product (TPP),noun phrase,The total output produced from a given amount of inputs.,"TPP rises, then flattens, and can eventually fall.",APP; MPP,
+L03,Production,average physical product (APP),noun phrase,Output per unit of the variable input. APP = TPP / L.,Output per worker.,MPP,"APP rises while MPP is ABOVE it, and falls while MPP is below it."
+L03,Production,marginal physical product (MPP),noun phrase,The extra output from ONE more unit of the variable input. MPP = ΔTPP / ΔL.,MPP is the slope of the TPP curve.,APP; diminishing returns,TPP is at its MAXIMUM when MPP = 0. Exam favourite.
+L03,Production,law of diminishing marginal returns,noun phrase,Adding more of a variable input to a FIXED input eventually gives less and less extra output.,"Too many baristas, one coffee machine.",MPP,"Sets in when MPP starts to FALL, which is BEFORE total output starts to fall."
+L03,Costs,explicit cost,noun phrase,A payment actually made to an outside supplier.,Wages and rent are explicit costs.,opposite: implicit cost,
+L03,Costs,implicit cost,noun phrase,"A cost with no payment, but a sacrifice of an alternative.",The salary the owner gave up to run the business.,opportunity cost,
+L03,Costs,total fixed cost (TFC),noun phrase,Cost that does not change with output.,Rent stays at £12 whatever you produce.,opposite: TVC,
+L03,Costs,total variable cost (TVC),noun phrase,Cost that changes with output.,Materials and wages rise as you produce more.,opposite: TFC,
+L03,Costs,total cost (TC),noun phrase,TC = TFC + TVC.,Total cost is fixed plus variable cost.,TFC; TVC,
+L03,Costs,sunk cost,noun phrase,A cost already spent that cannot be recovered.,Sunk costs should not affect your next decision.,fixed cost,
+L03,Costs,average fixed cost (AFC),noun phrase,AFC = TFC / Q.,"AFC always falls as output rises, because the fixed cost is spread wider.",AVC; AC,
+L03,Costs,average variable cost (AVC),noun phrase,AVC = TVC / Q.,Average variable cost per unit.,AFC; AC,
+L03,Costs,average cost (AC),noun phrase,Total cost per unit. AC = TC / Q = AFC + AVC.,AC is U-shaped.,marginal cost,
+L03,Costs,marginal cost (MC),noun phrase,The extra cost of producing ONE more unit. MC = ΔTC / ΔQ.,"All marginal costs are variable, because fixed costs do not change.",AC,MC cuts AC and AVC at their MINIMUM points. Guaranteed diagram question.
+L03,Costs,MC and MPP relationship,noun phrase,MC is at its MINIMUM exactly where MPP is at its MAXIMUM.,They are mirror images of each other.,diminishing returns,
+L03,Long run,returns to scale,noun phrase,What happens to output when ALL inputs rise by the same percentage.,"Increasing, constant or decreasing returns.",economies of scale,
+L03,Long run,increasing returns to scale,noun phrase,An x% rise in inputs gives MORE than x% more output.,"Inputs up 10%, output up 15%.",economies of scale,
+L03,Long run,constant returns to scale,noun phrase,An x% rise in inputs gives exactly x% more output.,"Inputs up 10%, output up 10%.",returns to scale,
+L03,Long run,decreasing returns to scale,noun phrase,An x% rise in inputs gives LESS than x% more output.,"Inputs up 10%, output up 6%.",diseconomies of scale,
+L03,Long run,economies of scale,noun phrase,Increasing the SCALE of production lowers the cost per unit.,"Specialisation, indivisibilities, efficiency of a large plant.",opposite: diseconomies,"Economies of SCALE = one product, bigger. Economies of SCOPE = more products."
+L03,Long run,diseconomies of scale,noun phrase,Increasing the scale RAISES the cost per unit.,Usually from problems of management and coordination.,opposite: economies of scale,
+L03,Long run,economies of scope,noun phrase,Producing a wider RANGE of products lowers the cost of each.,Sharing overheads between product lines.,vs economies of scale,
+L03,Long run,long-run average cost (LRAC),noun phrase,"Total cost per unit in the long run, when all inputs can change.","The LRAC curve shows economies, then constant costs, then diseconomies.",LRMC,
+L03,Long run,long-run marginal cost (LRMC),noun phrase,The extra cost of one more unit in the long run.,LRMC cuts LRAC at its minimum.,LRAC,
+L03,Revenue,average revenue (AR),noun phrase,Revenue per unit sold. AR = TR / Q. It is the same as price.,AR is the demand curve the firm faces.,marginal revenue,AR = Price. Always. The AR curve IS the firm's demand curve.
+L03,Revenue,marginal revenue (MR),noun phrase,The extra revenue from selling ONE more unit. MR = ΔTR / ΔQ.,"For a price taker, MR = AR = P.",average revenue,
+L03,Revenue,price taker,noun phrase,A firm that must accept the market price and cannot set its own.,"In perfect competition, P = AR = MR.",opposite: price maker,
+L03,Revenue,profit maximisation,noun phrase,Producing where MR = MC.,Stage 1: find output where MR = MC. Stage 2: measure profit with AR and AC.,MR = MC,"The two-stage method. Stage 1 finds QUANTITY, stage 2 finds PROFIT."
+L04,Market structure,market structure,noun phrase,"How a market is organised: number of firms, entry barriers, product type, competition.",It affects how firms behave.,four structures,
+L04,Market structure,concentration ratio,noun phrase,The combined market share of the largest firms in an industry.,The five-firm ratio for motor vehicles (63.86) is far above food products (10.68).,market power,
+L04,Market structure,market power,noun phrase,A firm's ability to affect the price or market conditions.,Firms in perfect competition have almost no market power.,concentration ratio,
+L04,Perfect competition,perfect competition,noun phrase,"Many small firms, identical products, free entry, perfect information, and firms are price takers.",Agriculture is the usual example.,opposite: monopoly,
+L04,Perfect competition,homogeneous products,noun phrase,Products that buyers see as identical.,Wheat from one farm is the same as from another.,opposite: differentiated,
+L04,Perfect competition,differentiated products,noun phrase,Products that are similar but not the same.,Restaurants differ by menu and atmosphere.,monopolistic competition,
+L04,Perfect competition,perfect information,noun phrase,Buyers and sellers know all prices and product details.,It is an assumption of perfect competition.,perfect competition,
+L04,Perfect competition,free entry and exit,noun phrase,New firms can enter the market easily and leave easily.,Free entry drives supernormal profit down over time.,opposite: barriers to entry,
+L04,Perfect competition,normal profit,noun phrase,The profit level where ECONOMIC profit is zero. Revenue covers all costs including opportunity cost.,"In long-run perfect competition, firms earn only normal profit.",opposite: supernormal,Normal profit is NOT zero profit. It means zero ECONOMIC profit. Biggest trap here.
+L04,Perfect competition,supernormal profit,noun phrase,Profit ABOVE normal profit. Revenue exceeds all costs including opportunity cost.,Supernormal profits attract new firms into the market.,opposite: normal profit,
+L04,Perfect competition,economic profit,noun phrase,"Profit after ALL costs, including opportunity cost.",Normal profit means economic profit = 0.,normal profit,
+L04,Perfect competition,loss minimisation,noun phrase,"Choosing output to make losses as small as possible, when profit is negative.",It still uses the MR = MC rule.,profit maximisation,
+L04,Perfect competition,long-run equilibrium,noun phrase,A stable position where firms earn only normal profit and nobody enters or leaves.,P = AR = MR = MC = AC = LRAC at its minimum.,perfect competition,Memorise the chain: P = AR = MR = MC = AC. Appears as a gap-fill.
+L04,Monopoly,monopoly,noun,A market with a SINGLE seller.,A local water company.,opposite: perfect competition,
+L04,Monopoly,monopolist,noun,The single firm that sells in a monopoly market.,A monopolist faces the whole market demand curve.,monopoly,
+L04,Monopoly,barriers to entry,noun phrase,Things that make it hard for new firms to enter a market.,They are the fundamental cause of monopoly.,structural; strategic,
+L04,Monopoly,structural / natural barriers,noun phrase,Barriers that come from the nature of the industry itself.,Starting the business may need an enormous investment.,vs strategic barriers,
+L04,Monopoly,strategic / artificial barriers,noun phrase,Barriers a firm creates deliberately to block rivals.,An exclusive contract that stops rivals reaching key distributors.,vs structural barriers,
+L04,Monopoly,natural monopoly,noun phrase,One large firm can supply the market at a lower average cost than several small ones.,It comes from large economies of scale.,economies of scale,
+L04,Monopoly,control of key resources,noun phrase,One firm controls an essential input that rivals need.,De Beers and the supply of diamonds.,barriers to entry,
+L04,Monopoly,patent,noun,A legal right stopping others from making or selling an invention for a time.,Patents prevent competitors producing the same product.,intellectual property,
+L04,Monopoly,downward-sloping demand curve,noun phrase,"To sell more, the monopolist must LOWER the price.",This is why MR lies BELOW AR for a monopoly.,MR below AR,For a monopoly MR < AR. For a price taker MR = AR. Know the difference.
+L04,Monopoly,X-inefficiency,noun phrase,"When a firm does not produce at the lowest possible cost, because competition is weak.",A monopoly may show X-inefficiency.,monopoly,
+L04,Other structures,monopolistic competition,noun phrase,"Many firms, free entry, but DIFFERENTIATED products.",Restaurants and hairdressers.,between PC and monopoly,
+L04,Other structures,oligopoly,noun,A market dominated by a FEW large firms.,"Airlines, supermarkets and mobile networks.",interdependence,

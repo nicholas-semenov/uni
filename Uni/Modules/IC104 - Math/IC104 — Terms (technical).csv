@@ -1,0 +1,80 @@
+﻿Lecture,Topic,Term,POS,Meaning,Example,Related,Trap
+L01,Powers,base,noun,"In a to the power n, the number a that is being multiplied.","In 2^5, the base is 2.",exponent,
+L01,Powers,exponent / power,noun,The small raised number saying how many times to multiply the base by itself.,"In 2^5, the exponent is 5.",base,
+L01,Powers,natural number,noun phrase,"A positive whole number: 1, 2, 3, …",n must be a natural number in the definition of a power.,integer,
+L01,Powers,rules of powers,noun phrase,a^r · a^s = a^(r+s) and (a^r)^s = a^(rs).,Add the exponents when multiplying; multiply them when taking a power of a power.,,"a⁰ = 1 for a ≠ 0, and a^(−n) = 1/aⁿ."
+L01,Powers,nth root,noun phrase,"a^(1/n) is the number which, raised to the power n, gives a.",a^(1/2) is the square root of a.,fractional power,
+L01,Powers,compound interest,noun phrase,"Interest earned on interest. After t years, K(1+p%)^t.","£1,000 at 8% is 1000(1.08)^t after t years.",geometric series,
+L01,Algebra,quadratic identity,noun phrase,"(a+b)² = a²+2ab+b², (a−b)² = a²−2ab+b², (a+b)(a−b) = a²−b².",Learn all three by heart.,to expand,
+L01,Algebra,to expand,verb,To multiply out the brackets.,Expand (3x+2y)² to get 9x²+12xy+4y².,to factorise,
+L01,Algebra,to simplify,verb,To write an expression in its shortest equivalent form.,Simplify so the answer contains only positive exponents.,,
+L01,Algebra,numerator / denominator,noun,The top of a fraction / the bottom of a fraction.,"In a/b, a is the numerator and b the denominator.",fraction,
+L02,Differentiation,derivative,noun,The rate at which a function changes. Written f'(x) or dy/dx.,The derivative measures the slope of the curve at a point.,differentiation,
+L02,Differentiation,to differentiate,verb,To find the derivative of a function.,Differentiate TR to find MR.,derivative,
+L02,Differentiation,slope / gradient,noun,How steep a curve is at a point. The derivative gives it.,The MPP is the slope of the TPP curve.,derivative,
+L02,Differentiation,first-order condition (FOC),noun phrase,Set the first derivative equal to zero: f'(c) = 0. It is NECESSARY for a max or min.,"dπ/dq = −6q + 198 = 0, so q = 33.",second-order condition,FOC alone is not enough. It only finds a STATIONARY point.
+L02,Differentiation,second-order condition (SOC),noun phrase,Check the sign of the second derivative to tell a maximum from a minimum.,"d²π/dq² = −6 < 0, so q = 33 is a MAXIMUM.",first-order condition,NEGATIVE second derivative = MAXIMUM. Positive = minimum. Memorise the direction.
+L02,Differentiation,stationary point,noun phrase,A point where the function is neither rising nor falling: f'(x) = 0.,"A maximum, a minimum or a point of inflection.",FOC,
+L02,Differentiation,maximum point,noun phrase,A point c where f(c) ≥ f(x) for all x in the domain.,"At a maximum, dy/dx = 0 and d²y/dx² < 0.",minimum point,
+L02,Differentiation,minimum point,noun phrase,A point d where f(d) ≤ f(x) for all x in the domain.,"At a minimum, dy/dx = 0 and d²y/dx² > 0.",maximum point,
+L02,Differentiation,point of inflection,noun phrase,A stationary point that is neither a maximum nor a minimum.,The curve changes the direction it bends.,stationary point,
+L02,Differentiation,concave function,adjective,A function that curves downward. Its first derivative is falling.,A concave function has a MAXIMUM.,opposite: convex,
+L02,Differentiation,convex function,adjective,A function that curves upward. Its first derivative is rising.,A convex function has a MINIMUM.,opposite: concave,
+L02,Differentiation,chain rule,noun phrase,To differentiate a function of a function: multiply the outer derivative by the inner one.,Used for composite functions.,product rule,
+L02,Differentiation,product rule,noun phrase,The rule for differentiating two functions multiplied together.,Integration by parts is the product rule backwards.,chain rule,
+L02,Differentiation,optimisation,noun,Finding the input that makes a function as large or as small as possible.,Profit maximisation: find q where dπ/dq = 0.,FOC; SOC,
+L03,Partial derivatives,function of two variables,noun phrase,"A rule giving one output from each PAIR of inputs, x and y.","F(x,y) uses two inputs to give one output.",partial derivative,
+L03,Partial derivatives,partial derivative,noun phrase,"The derivative with respect to ONE variable, holding the others constant.","Written ∂z/∂x. The curly ∂ means ""partial"".",held constant,"The whole idea: change one variable, FREEZE the rest."
+L03,Partial derivatives,with respect to (w.r.t.),phrase,Showing which variable is being changed.,∂z/∂x means the derivative with respect to x.,partial derivative,
+L03,Partial derivatives,held constant,phrase,Kept the same while another variable changes.,"When y is held constant, z depends only on x.",ceteris paribus,"This is the mathematical version of IC103's ""ceteris paribus""."
+L03,Partial derivatives,second-order partial derivative,noun phrase,A partial derivative taken a second time.,∂²f/∂x².,partial derivative,
+L03,Partial derivatives,Cobb-Douglas function,noun phrase,"A common production function: F(x,y) = Ax^a·y^b.",Used to model how labour and capital produce output.,production function,
+L03,Partial derivatives,domain,noun,The set of all input values for which a function is defined.,"The domain is the set of allowed (x, y) pairs.",function,
+L03,Integration,integral,noun,The reverse of a derivative. It gives the area under a curve.,The definite integral is the area under the graph between a and b.,antiderivative,
+L03,Integration,antiderivative,noun,A function whose derivative is the original function.,"If F'(x) = f(x), then F is an antiderivative of f.",indefinite integral,
+L03,Integration,definite integral,noun phrase,An integral with limits a and b. It gives a NUMBER.,Written ∫ from a to b of f(x) dx.,indefinite integral,
+L03,Integration,indefinite integral,noun phrase,An integral with no limits. It gives a FUNCTION plus a constant C.,Do not forget the + C.,definite integral,Definite = a number. Indefinite = a function + C.
+L03,Integration,Fundamental Theorem of Calculus,noun phrase,Links differentiation and integration: the definite integral equals F(b) − F(a).,It is how you actually evaluate a definite integral.,antiderivative,
+L03,Integration,anti-power rule,noun phrase,The rule for integrating x to a power.,∫xⁿ dx = x^(n+1)/(n+1) + C.,power rule,
+L03,Integration,interval,noun,All the values between two end points.,"The closed interval [a, b].",partition,
+L03,Integration,integrable,adjective,Able to have a definite integral.,"If the area under the graph exists, the function is integrable.",integral,
+L04,Series,percentage,noun,A number expressed as a fraction of 100.,20% = 20/100 = 0.2.,rate of return,
+L04,Series,rate of return,noun phrase,The percentage change in value: (New − Old) / Old.,From $25 to $30 is (30−25)/25 = 20%.,percentage,
+L04,Series,geometric series,noun phrase,A sequence where each term is the previous one times a constant.,"1, 2, 4, 8, 16 …",common ratio,
+L04,Series,common ratio,noun phrase,The constant you multiply by in a geometric series. Written k.,"In 1, 2, 4, 8 the common ratio is 2.",geometric series,
+L04,Series,sum of a finite geometric series,noun phrase,"sₙ = a(kⁿ − 1)/(k − 1), for k ≠ 1.",Used for annuities and mortgages.,geometric series,
+L04,Series,sum of an infinite geometric series,noun phrase,"s = a/(1 − k), valid only when |k| < 1.",1 + 0.25 + 0.25² + … = 1/(1−0.25) = 4/3.,perpetuity,Only converges when |k| < 1. This is WHY a perpetuity has a finite value.
+L04,Time value,time value of money,noun phrase,"A pound today is worth more than a pound tomorrow, because it can earn interest.",One of the central concepts in finance.,PV; FV,"Same idea as IC101 Lecture 1, now with the algebra behind it."
+L04,Time value,present value (PV),noun phrase,What a future amount is worth today. PV = FV / (1+r)ⁿ.,"£2m needed in 2 years at 10% means £1,652,893 today.",future value,
+L04,Time value,future value (FV),noun phrase,What an amount today will be worth later. FV = PV(1+r)ⁿ.,£100 at 5% monthly for 12 months gives £179.59.,present value,
+L04,Time value,effective rate of interest,noun phrase,The true annual rate when interest is paid n times a year. R = (1 + r/n)ⁿ − 1.,5.9% paid quarterly gives 6.03%; 6% paid twice a year gives 6.09%.,compounding,More frequent compounding = a HIGHER effective rate. Classic comparison question.
+L04,Time value,continuous compounding,noun phrase,The limit as n goes to infinity: the effective rate becomes e^(rt) − 1.,This is why e appears everywhere in derivatives and bond pricing.,exponential function,
+L04,Time value,value additivity,noun phrase,The PV of several cash flows is the sum of their separate PVs.,PV(CD1 + CD2) = PV(CD1) + PV(CD2).,present value,
+L04,Time value,perpetuity,noun,A stream of fixed cash flows with an INFINITE life. PV = c / r.,"A Consol bond, first issued by the UK in 1752. The principal is never repaid.",annuity,"PV = c/r. The simplest formula in the module, and it comes from the infinite series."
+L04,Time value,annuity,noun,A series of EQUAL cash flows for a FIXED number of periods.,Fixed-rate mortgages and auto loans.,perpetuity,Annuity = finite. Perpetuity = infinite. That is the only difference.
+L04,Time value,annuity present value (APV),noun phrase,APV = (C/r)[1 − (1+r)^(−n)].,"£250,000 a year for 10 years at 8% is worth £1,677,520 today.",annuity,
+L04,Time value,net present value (NPV),noun phrase,"The sum of all cash flows discounted to today, including the initial outlay.",Always invest in a project with a positive NPV.,IRR,
+L04,Time value,internal rate of return (IRR),noun phrase,The discount rate that makes the NPV of a project exactly ZERO.,Accept the project if IRR > your required rate of return.,NPV,IRR is the rate where NPV = 0. Compare it to the REQUIRED rate to decide.
+L04,Time value,required rate of return,noun phrase,"The benchmark return, the discount rate used to compute NPV.",With R = 15% you accept; with R = 30% you reject.,IRR; opportunity cost,
+L05,Matrices,matrix,noun,A rectangular array of numbers treated as one mathematical object.,"A matrix with 4 rows and 3 columns is ""of order 4 by 3"".",order; element,"Written as a BOLD, UPPERCASE letter."
+L05,Matrices,order / dimension,noun,The number of rows m and columns n of a matrix.,An m × n matrix.,matrix,"ALWAYS rows first, then columns. m × n."
+L05,Matrices,element / entry,noun,"One number inside a matrix. aᵢⱼ is in row i, column j.","a₂₃ is in row 2, column 3.",matrix,
+L05,Matrices,scalar,noun,"A single number, or a 1 × 1 matrix.",Multiplying a matrix by a scalar multiplies every element.,matrix,
+L05,Matrices,square matrix,noun phrase,A matrix with the same number of rows and columns.,Only square matrices have a determinant or an inverse.,determinant; inverse,
+L05,Matrices,diagonal entries,noun phrase,The entries aᵢᵢ running from top-left to bottom-right.,All other entries are non-diagonal.,diagonal matrix,
+L05,Matrices,diagonal matrix,noun phrase,A square matrix whose non-diagonal elements are all zero.,Only the diagonal has non-zero numbers.,identity matrix,
+L05,Matrices,identity matrix,noun phrase,A square matrix with 1s on the diagonal and 0s elsewhere. Written Iₙ.,It behaves like the number 1: AI = A.,inverse,
+L05,Matrices,lower triangular,adjective phrase,A square matrix where all entries ABOVE the main diagonal are zero.,,upper triangular,
+L05,Matrices,upper triangular,adjective phrase,A square matrix where all entries BELOW the main diagonal are zero.,,lower triangular,
+L05,Matrices,row vector,noun phrase,A 1 × n matrix: a single row.,Written with a lowercase letter.,column vector,
+L05,Matrices,column vector,noun phrase,An n × 1 matrix: a single column.,Written with a lowercase letter.,row vector,
+L05,Matrices,zero matrix,noun phrase,A matrix consisting only of zeros.,It behaves like the number 0.,identity matrix,
+L05,Matrices,transpose,noun,The matrix you get by swapping rows and columns.,Written Aᵀ.,matrix,
+L05,Matrices,determinant,noun,A single number computed from a SQUARE matrix.,"If the determinant is zero, the matrix has no inverse.",inverse,det = 0 means NO inverse exists. Core exam fact.
+L05,Matrices,inverse matrix,noun phrase,The matrix A⁻¹ such that A·A⁻¹ = I.,Only square matrices with a non-zero determinant have one.,determinant; identity,
+L05,Systems,system of linear equations,noun phrase,n unknown variables appearing in m linear equations.,Matrices are the tool for solving these.,coefficients,
+L05,Systems,coefficients,noun,The numbers a₁₁ … aₘₙ multiplying the unknowns.,They form the coefficient matrix.,system of equations,
+L05,Systems,right-hand sides,noun phrase,The numbers b₁ … bₘ on the right of the equals signs.,,system of equations,
+L05,Systems,solution,noun,A set of numbers satisfying ALL the equations simultaneously.,"s₁, s₂, …, sₙ.",consistent,
+L05,Systems,consistent,adjective,A system that has at LEAST one solution.,,opposite: inconsistent,
+L05,Systems,inconsistent,adjective,A system that has NO solution.,,opposite: consistent,Consistent = has a solution. Inconsistent = none. Easy pair to confuse.

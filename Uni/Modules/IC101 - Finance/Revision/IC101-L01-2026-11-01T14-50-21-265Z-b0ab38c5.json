@@ -1,0 +1,572 @@
+{
+  "format": "ic101-l01-attempt",
+  "schemaVersion": 1,
+  "quizId": "ic101-l01-topic1-plus-v1",
+  "exportedAt": "2026-11-01T14:53:42.387Z",
+  "attempt": {
+    "id": "b0ab38c5-9f99-4915-b5a7-a291815d74d7",
+    "createdAt": "2026-11-01T14:50:21.265Z",
+    "updatedAt": "2026-11-01T14:53:41.885Z",
+    "submittedAt": null,
+    "submitted": false,
+    "currentIndex": 0,
+    "elapsedSeconds": 200,
+    "responses": {
+      "bb-01": {
+        "choice": 0,
+        "text": "QA: 100 × 1.05² = £110.25. Interest earns interest.",
+        "confidence": "unset"
+      }
+    }
+  },
+  "result": null,
+  "gradingNote": "27 MCQ: one point each, unanswered = 0, no negative marking in this local practice. Written answers and rationales await tutor review. Not a Blackboard submission.",
+  "questions": [
+    {
+      "number": 1,
+      "id": "bb-01",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "PV/FV",
+      "prompt": "Invest £100 for two years at 5% compounded annually. The value at the end is closest to:",
+      "source": "Saved Blackboard Topic 1, question 1",
+      "answerText": "QA: 100 × 1.05² = £110.25. Interest earns interest.",
+      "confidence": "unset",
+      "options": [
+        "£110.25",
+        "£110.00",
+        "£121.55",
+        "£105.00"
+      ],
+      "selectedIndex": 0,
+      "selectedOption": "£110.25"
+    },
+    {
+      "number": 2,
+      "id": "bb-02",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "PV/FV",
+      "prompt": "The present value today of £110.25 receivable in two years, at a discount rate of 5%, is:",
+      "source": "Saved Blackboard Topic 1, question 2",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "£105.00",
+        "£100.00",
+        "£99.75",
+        "£110.25"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 3,
+      "id": "bb-03",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Discount rate",
+      "prompt": "In finance, the discount rate used to value a future cash flow is best understood as:",
+      "source": "Saved Blackboard Topic 1, question 3",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "a government-set tax rate",
+        "the rate of inflation only",
+        "the investor's opportunity cost of capital",
+        "the bank's profit margin"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 4,
+      "id": "bb-04",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "DCF/NPV",
+      "prompt": "A project has a positive net present value (NPV). This means:",
+      "source": "Saved Blackboard Topic 1, question 4",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "its cash inflows are larger than its outflows in nominal terms",
+        "it earns more than the required return, so it adds value",
+        "it will never make a loss",
+        "its payback period is under one year"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 5,
+      "id": "bb-05",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Risk & return",
+      "prompt": "Which statement about the relationship between risk and expected return is correct?",
+      "source": "Saved Blackboard Topic 1, question 5",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "higher-risk assets must always deliver higher realised returns",
+        "investors require a higher expected return to bear higher risk",
+        "risk and expected return are unrelated",
+        "lower-risk assets offer higher expected returns"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 6,
+      "id": "bb-06",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Bonds",
+      "prompt": "If market interest rates rise, the price of an existing fixed-coupon bond will usually:",
+      "source": "Saved Blackboard Topic 1, question 6",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "rise",
+        "stay the same",
+        "fall",
+        "rise, then fall to par immediately"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 7,
+      "id": "bb-07",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "PV/FV",
+      "prompt": "£1,000 is invested at 5% a year for 40 years, with all interest reinvested. It grows to roughly:",
+      "source": "Saved Blackboard Topic 1, question 7",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "£3,000",
+        "£7,000",
+        "£2,000",
+        "£5,000"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 8,
+      "id": "bb-08",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Purpose of finance",
+      "prompt": "The Life-Cycle Hypothesis describes how individuals:",
+      "source": "Saved Blackboard Topic 1, question 8",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "spend all of their income immediately",
+        "smooth their consumption by borrowing when young and saving for retirement",
+        "never borrow",
+        "only start saving after the age of 60"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 9,
+      "id": "bb-09",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "PV/FV",
+      "prompt": "At a discount rate of 10%, which of the following is worth the MOST today?",
+      "source": "Saved Blackboard Topic 1, question 9",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "£100 received today",
+        "£110 received in one year",
+        "£121 received in two years",
+        "they are all worth the same today"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 10,
+      "id": "bb-10",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Risk management",
+      "prompt": "Spreading your money across many different assets (diversification) mainly works because it:",
+      "source": "Saved Blackboard Topic 1, question 10",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "guarantees a higher return",
+        "reduces risk without necessarily reducing expected return",
+        "eliminates all risk completely",
+        "raises expected return with no downside"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 11,
+      "id": "bb-11",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Risk management",
+      "prompt": "The three classic ways to manage risk covered in the lecture are diversification, insurance and:",
+      "source": "Saved Blackboard Topic 1, question 11",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "hedging",
+        "leverage",
+        "speculation",
+        "arbitrage"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 12,
+      "id": "bb-12",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Risk management",
+      "prompt": "'Hedging' means:",
+      "source": "Saved Blackboard Topic 1, question 12",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "avoiding all risky assets entirely",
+        "taking an offsetting position so a loss on one side is cancelled by a gain on the other",
+        "borrowing money in order to invest more",
+        "buying a fund that holds the whole market"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 13,
+      "id": "bb-13",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "P/E & EPS",
+      "prompt": "A company trading on a high price-to-earnings (P/E) ratio most likely means the market:",
+      "source": "Saved Blackboard Topic 1, question 13",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "expects the company's profits to grow quickly",
+        "thinks the shares are cheap",
+        "expects the company to go bankrupt",
+        "is paying a high dividend"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 14,
+      "id": "bb-14",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "Asset types",
+      "prompt": "A purely speculative asset (for example some crypto or a work of art) is worth:",
+      "source": "Saved Blackboard Topic 1, question 14",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "the present value of its future cash flows",
+        "only what the next buyer is willing to pay",
+        "its rental yield",
+        "the value of the underlying asset it tracks"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 15,
+      "id": "bb-15",
+      "type": "mcq",
+      "section": "blackboard",
+      "topic": "EMH & arbitrage",
+      "prompt": "The Efficient Market Hypothesis (EMH) says that:",
+      "source": "Saved Blackboard Topic 1, question 15",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "prices already reflect all known information, so consistently beating the market is very hard",
+        "market prices are always exactly right",
+        "markets can never crash",
+        "only insiders can ever make money"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 16,
+      "id": "gap-01",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Three pillars",
+      "prompt": "Which list correctly names the three pillars of finance?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "Saving, borrowing and taxation",
+        "Time value of money, diversification and insurance",
+        "Time value of money, risk management and asset pricing",
+        "Accounting profit, revenue and dividends"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 17,
+      "id": "gap-02",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "DCF/NPV",
+      "prompt": "An analyst adds £600 due in one year to £600 due in two years and calls £1,200 their value today. What is missing?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "Each cash flow must first be discounted for its own timing and risk",
+        "The initial investment must always be added to the £1,200",
+        "Future cash flows should be multiplied by the discount rate",
+        "Nothing: the dates do not affect value"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 18,
+      "id": "gap-03",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Discount rate",
+      "prompt": "In a simplified model, the risk-free rate is 4% and the risk premium is 3%. Which statement is correct?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "The discount rate is 3%, the full return investors require",
+        "The discount rate is 4%, because only the risk-free rate matters",
+        "The discount rate is 7%, and the project guarantees a 7% return",
+        "The discount rate is 7%; it reflects a required return, not a guaranteed outcome"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 19,
+      "id": "gap-04",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "DCF/NPV",
+      "prompt": "A project costs £100 now and is expected to pay £105 in one year. The required return is 10%. What follows?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "NPV is +£5 because the nominal cash inflow exceeds the investment",
+        "NPV is about −£4.55: the project does not meet the required return",
+        "NPV is zero because every positive nominal gain is sufficient",
+        "NPV is about +£4.55, so the project guarantees a profit"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 20,
+      "id": "gap-05",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "P/E & EPS",
+      "prompt": "A share costs £90, annual EPS is £6, and the dividend per share is £2. What is the correct P/E interpretation?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "P/E is 45, because dividends are the company’s earnings",
+        "P/E is 15, so the investor receives £15 in cash each year",
+        "P/E is 15: the price is 15 times annual earnings per share",
+        "P/E is 6: EPS already measures the share price"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 21,
+      "id": "gap-06",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "P/B",
+      "prompt": "A company has accounting assets of £900m, liabilities of £500m, and a market value of equity of £600m. What is P/B?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "1.5: market equity is 1.5 times its £400m book equity",
+        "0.67: divide market equity by total assets",
+        "1.2: divide market equity by liabilities",
+        "4.5: subtract liabilities from the market value first"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 22,
+      "id": "gap-07",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Bonds",
+      "prompt": "A bond pays a fixed £5 annual coupon. Market yields rise. Which statement is correct?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "Its coupon must rise so that the price stays unchanged",
+        "Its face value immediately increases",
+        "Its price and coupon both fall automatically",
+        "Its price falls, other things equal, while its £5 coupon stays fixed"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 23,
+      "id": "gap-08",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Risk management",
+      "prompt": "A farmer wants protection against a fall in the selling price of wheat. Which action is an example of hedging?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "Buy more wheat to increase the same exposure",
+        "Sell wheat futures or buy a put option on wheat",
+        "Borrow more money without changing the exposure",
+        "Buy a call option and assume it guarantees the wheat selling price"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 24,
+      "id": "gap-09",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Asset types",
+      "prompt": "Which classification matches the lecture?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "A share is real; a futures contract is capital; property is derivative",
+        "Every volatile investment is purely speculative",
+        "A share is capital; a futures contract is derivative; property is real",
+        "A futures contract is insurance that always eliminates all risk"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 25,
+      "id": "gap-10",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "EMH & arbitrage",
+      "prompt": "Unexpected positive news about a company becomes public. What is consistent with EMH?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "The price can adjust quickly, so reading the news later may provide no advantage",
+        "The price cannot change because EMH fixes prices forever",
+        "The news guarantees a profit for anyone who buys after reading it",
+        "The old price must have reflected the exact surprise with certainty"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 26,
+      "id": "gap-11",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "EMH & arbitrage",
+      "prompt": "The same asset trades simultaneously for £48 and £50 in two markets. Assume trades are executable and there are no costs. What illustrates arbitrage?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "Buy at £50 and wait for an uncertain future price increase",
+        "Buy at £48 and simultaneously sell at £50; the trades tend to narrow the gap",
+        "Buy only at £48 and hope to sell next year at £50",
+        "Conclude that both prices must equal the asset’s fundamental value"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 27,
+      "id": "gap-12",
+      "type": "mcq",
+      "section": "gaps",
+      "topic": "Price vs value",
+      "prompt": "A share trades at £100. Your DCF estimate is £80. Which conclusion is most appropriate?",
+      "source": "Additional practice based on your L01 revision and diagnostic answers",
+      "answerText": "",
+      "confidence": "unset",
+      "options": [
+        "The £80 must be the company’s production cost",
+        "The company must pay you the £20 difference as a dividend",
+        "DCF guarantees that the share will fall to £80 tomorrow",
+        "The share may be overpriced relative to your assumptions, but the estimate is uncertain"
+      ],
+      "selectedIndex": null,
+      "selectedOption": null
+    },
+    {
+      "number": 28,
+      "id": "explain-01",
+      "type": "written",
+      "section": "explain",
+      "topic": "DCF/NPV",
+      "prompt": "A project has positive NPV. In your own words, explain what that means. Distinguish the value of its future cash flows from the initial investment. Does it guarantee a profit?",
+      "source": "Short explanation for tutor review; not automatically graded",
+      "answerText": "",
+      "confidence": "unset"
+    },
+    {
+      "number": 29,
+      "id": "explain-02",
+      "type": "written",
+      "section": "explain",
+      "topic": "P/E & EPS",
+      "prompt": "A share has a P/E of 20. Explain what the number means, how EPS differs from dividends, and why a high P/E is not automatically a bad investment.",
+      "source": "Short explanation for tutor review; not automatically graded",
+      "answerText": "",
+      "confidence": "unset"
+    },
+    {
+      "number": 30,
+      "id": "explain-03",
+      "type": "written",
+      "section": "explain",
+      "topic": "EMH & arbitrage",
+      "prompt": "Explain why reading a public news story may not give you an investing advantage. Then explain the difference between the law of one price and arbitrage.",
+      "source": "Short explanation for tutor review; not automatically graded",
+      "answerText": "",
+      "confidence": "unset"
+    }
+  ]
+}

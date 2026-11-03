@@ -1,0 +1,257 @@
+﻿Lecture,Topic,Term,POS,Meaning,Example,Related,Trap
+L01,What finance is,finance,noun,"Moving money from people who have it and do not need it now, to people who need it now.",Your student loan is finance: the bank lends you other people's deposits.,savers and borrowers; intermediary,
+L01,What finance is,saver / lender,noun,A person or organisation that has money they do not need yet.,"Households, firms and pension funds are savers.",opposite: borrower,
+L01,What finance is,borrower / investor,noun,A person or organisation that needs money now.,You need money now to buy a home or build a business.,opposite: saver,
+L01,What finance is,capital flow,noun phrase,The movement of money from savers to borrowers.,Capital flows one way; interest and repayment flow back the other way.,see L05 four sectors,
+L01,What finance is,capital,noun,The money (funds) that can be put into productive investment.,"""Financial capital is the money that can be put into productive investment."" (lecturer, 23:18)",capitalism,"In everyday English ""capital"" = a capital city. Different word in finance."
+L01,What finance is,productive investment,noun phrase,Money used to build something that produces more value later.,"Finance channels savings into productive investment, which creates growth and jobs.",,
+L01,What finance is,intermediary,noun,An organisation that sits in the middle and connects two sides.,Banks are intermediaries: they connect savers and borrowers.,see L02 agency vs principal,
+L01,Life cycle,life-cycle,noun phrase,The pattern of how your income and spending change over your whole life.,"Income humps up, then drops at retirement, while spending stays smooth.",smooth spending; dissave,
+L01,Life cycle,to smooth spending,verb phrase,To keep your spending steady even when your income goes up and down.,Finance lets you smooth spending across your life.,life-cycle,
+L01,Life cycle,to dissave,verb,To live off your savings instead of adding to them.,When you are older you dissave: you spend the pension you built up.,opposite: to save,
+L01,Industry map,buy side,noun phrase,"The asset owners. They HAVE the money, so they buy investments.",Pension funds and hedge funds are buy side. Remember: they buy stuff.,opposite: sell side,Lecturer says third-year students still confuse these two.
+L01,Industry map,sell side,noun phrase,The banks and markets in the middle. They MOVE the money.,"They take issuers' requests, bundle them into products, and sell those products.",opposite: buy side,80-90% of graduate jobs are sell side.
+L01,Industry map,issuer,noun,"A company or government that NEEDS money, so it creates (issues) bonds or shares.",Corporates and governments are issuers.,to issue; primary market,
+L01,Industry map,asset owner,noun phrase,"Someone who owns the investments, not someone who manages them for others.",Pension funds are asset owners.,vs asset manager,
+L01,Industry map,asset manager,noun phrase,A firm that invests other people's money for them.,BlackRock and Vanguard are asset managers.,vs asset owner,
+L01,Industry map,passive investment,noun phrase,"Putting money into an index and leaving it there, without picking single shares.",A passive fund just tracks the FTSE 100 for 10 or 20 years.,opposite: active investment,"""On average, passive beats active"" (30:46). Active wins ~5% of the time."
+L01,Industry map,active investment,noun phrase,"Choosing investments yourself, with a strategy, hoping to beat the market.",Schroders and Aberdeen run active strategies.,opposite: passive investment,
+L01,Industry map,index,noun,"A list of many shares, used to measure a whole market.",The FTSE 100 is an index of 100 large UK companies.,passive investment,
+L01,Industry map,hedge fund,noun phrase,"A fund that uses complex assets and can bet on prices going down, not only up.",Bridgewater and Citadel are hedge funds.,to short; derivatives,
+L01,Industry map,assets under management (AUM),noun phrase,The total value of money a firm invests for its clients.,Asset management is a $100tn AUM business.,asset manager,
+L01,Three pillars,the three pillars of finance,noun phrase,"The three ideas that price everything: time value of money, risk management, asset pricing.","Learn these once, they price everything for the rest of your career.",,
+L01,Three pillars,time value of money,noun phrase,A pound today is worth more than a pound tomorrow.,"GBP 1,000 now or GBP 1,100 in a year? Interest and inflation decide.",present value; discounting,"Lecturer: ""the most fundamental and central concept""."
+L01,Three pillars,present value (PV),noun phrase,What future money is worth today.,"PV = GBP 1,100 / 1.05 = GBP 1,047 today.",to discount; discount rate,
+L01,Three pillars,to discount,verb,To shrink a future amount to show what it is worth today.,We discount future cash because money later is worth less than money now.,opposite: to compound,
+L01,Three pillars,discount rate,noun phrase,"The return you demand, used to shrink future cash. It covers time and risk.",Apple used 8%: what it could earn elsewhere on equally risky money.,opportunity cost,
+L01,Three pillars,opportunity cost,noun phrase,What you give up by choosing one thing instead of the next best thing.,The discount rate is an opportunity cost: the cash could have earned 8% elsewhere.,discount rate,
+L01,Three pillars,to compound / compounding,verb / noun,"To earn a return on your earlier returns, not only on the money you first put in.","GBP 1,000 at 5% becomes GBP 7,040 over 40 years.",opposite: discounting,"Discounting divides, compounding multiplies. Exact inverses."
+L01,Three pillars,interest,noun,"The money you earn for lending, or pay for borrowing.",Your money grows because of interest.,Bank Rate; inflation,
+L01,Three pillars,inflation,noun,How much more expensive things get.,"""Interest and inflation battle each other"" (50:26).",real return; see L04 quiet tax,
+L01,Three pillars,real return,noun phrase,Your return after taking inflation away.,"In the last decade, cash and gilts LOST money in real terms.",opposite: nominal,"""Real"" here does NOT mean genuine. It means after inflation."
+L01,Three pillars,Bank Rate,noun phrase,The interest rate set by the Bank of England. The price of money itself.,"In 18 months it went from 0.1% to 5.25%, the highest in 15 years.",central bank; monetary policy,
+L01,Risk,risk,noun,The gap between the return you expected and the return you actually get.,The actual return is rarely the return you expected. That gap is risk.,risk premium; volatility,
+L01,Risk,risk-averse,adjective,Not liking risk. Taking more risk only if you expect more return.,"Investors are risk-averse, so they demand a reward for risk.",risk premium,
+L01,Risk,risk premium,noun phrase,The extra return you demand for taking a risk.,"If the GBP 1,100 might not arrive, the extra you would demand is the risk premium.",risk-averse; see L04 liquidity premium,
+L01,Risk,diversification,noun,"Spreading money across many different assets, so one shock cannot hurt you much.",Do not put all your eggs in one basket.,hedging; insurance,
+L01,Risk,hedging,noun,"Taking an opposite position, so a loss on one side is cancelled by a gain on the other.",EasyJet locks in its jet-fuel cost with a futures contract.,to offset; derivatives,
+L01,Risk,volatility,noun,How much and how fast a price moves up and down.,The volatility of crypto is very high.,risk,
+L01,Assets & pricing,security,noun,"A financial instrument you can buy and sell, such as a bond or a share.",The module is called Introductory Securities & Markets.,bond; equity,"In everyday English ""security"" = safety. In finance it is a tradable instrument."
+L01,Assets & pricing,bond,noun,A loan to a company or government that pays regular interest.,"Governments issue bonds to fund schools, hospitals and roads.",coupon; gilt; yield,
+L01,Assets & pricing,gilt,noun,A UK government bond.,"""Gilts, we call the government bonds"" (1:03:21).",bond; see L05 risk-free rate,
+L01,Assets & pricing,coupon,noun,The fixed regular payment a bond makes.,A GBP 100 bond paying GBP 5 a year has a GBP 5 coupon.,bond; yield,
+L01,Assets & pricing,equity / share,noun,Part-ownership of a company.,Equities returned 5.3% a year in the long run: your long-term bet.,opposite: debt; see L02,
+L01,Assets & pricing,derivative,noun,A contract whose value comes from something else.,"""Their price is derived by real assets that sit underneath them.""",underlying asset; put option,
+L01,Assets & pricing,underlying asset,noun phrase,The real thing a derivative is based on.,Oil is the underlying asset of an oil future.,derivative,
+L01,Assets & pricing,put option,noun phrase,The right to sell something at a fixed price. It protects you from a fall.,An Apple put option insures your shares against a fall.,derivative; hedging,
+L01,Assets & pricing,futures contract,noun phrase,An agreement now to buy or sell at a fixed price later.,A fuel-price futures contract lets an airline lock in its jet-fuel cost.,derivative; to lock in,
+L01,Assets & pricing,speculative asset,noun phrase,Something worth only what the next buyer will pay. No intrinsic value.,Some crypto and art are speculative assets.,intrinsic value; see L04 Bitcoin,
+L01,Assets & pricing,intrinsic value,noun phrase,The real value a thing has from what it does or produces.,Crypto has no intrinsic value; a bond's coupons give it one.,opposite: speculative,
+L01,Assets & pricing,discounted cash flow (DCF),noun phrase,"Adding up all future cash, with each amount shrunk to today's value.","""The single most used formula in the finance profession today.""",present value; NPV,
+L01,Assets & pricing,net present value (NPV),noun phrase,"The value of future cash today, minus what it costs to build.","Apple project: $10.31bn of cash, $10.00bn cost, NPV = +$0.31bn.",DCF,Positive NPV = invest. Negative = do not.
+L01,Assets & pricing,P/E ratio (price-to-earnings),noun phrase,Share price divided by earnings per share. How much you pay for GBP 1 of annual profit.,Apple's P/E of 40 means you pay ~$40 for every $1 of yearly profit.,price-to-book,
+L01,Assets & pricing,yield,noun,The return you actually get on a bond at its current price.,Discount every coupon at the market yield y.,coupon; bond price,Yield and price move in OPPOSITE directions.
+L01,Assets & pricing,Efficient Market Hypothesis (EMH),noun phrase,"Prices already reflect all known information, so beating the market consistently is very hard.","Buffett's bet: an index fund made 7.1% a year, hedge funds 2.2%.",arbitrage; law of one price,
+L01,Assets & pricing,arbitrage,noun,"Buying something cheap in one place and selling it dear in another, until the gap closes.",Arbitrage enforces the law of one price.,EMH,
+L01,Assets & pricing,credit rating,noun phrase,A score of how likely a borrower is to repay.,Compare the credit ratings of a US corporate bond and a Malaysian government bond.,see L03 probability of default,
+L01,Assets & pricing,credit default swap (CDS),noun phrase,An instrument you buy to insure yourself against a borrower failing to repay.,CDS were at the centre of the 2008 financial crisis.,insurance; derivative,
+L01,Assets & pricing,to short,verb,To bet that a price will fall.,"Investors had shorted GameStop, so they lost money when the price rose.",hedge fund,
+L02,Balance sheet,balance sheet,noun phrase,A map of what a company owns and who funded it. The two sides must always be equal.,Assets = Liabilities + Equity. That is the whole idea.,assets; liabilities; equity,
+L02,Balance sheet,asset,noun,Something valuable that a company owns.,Apple's assets were $359bn in 2025.,opposite side: liabilities,KEY: every asset is somebody else's liability.
+L02,Balance sheet,liability,noun,Something a company owes to someone else.,"Your GBP 1,000 deposit is your asset but the bank's liability.",opposite: asset,
+L02,Balance sheet,equity,noun,The owners' stake: what is left after you take liabilities away from assets.,Equity = assets - liabilities = 100 - 80 = GBP 20m.,residual claim,"Apple, a $3tn company, runs on only ~20% equity."
+L02,Balance sheet,current assets,noun phrase,Assets that turn into cash within a year.,"Cash, short-term investments, stock and receivables.",opposite: non-current assets,
+L02,Balance sheet,non-current assets,noun phrase,Assets a company holds for years.,"Property, data centres, long-term investments and IP.",opposite: current assets,
+L02,Balance sheet,current liabilities,noun phrase,Debts due within a year.,Bills owed to suppliers and short-term borrowing.,opposite: non-current liabilities,
+L02,Balance sheet,accounts receivable,noun phrase,Money customers owe the company.,Apple had $40bn of accounts receivable.,opposite: accounts payable,
+L02,Balance sheet,accounts payable,noun phrase,Money the company owes its suppliers.,Apple owed $70bn to suppliers.,opposite: accounts receivable,
+L02,Balance sheet,inventories / stock,noun,Goods and parts a company has not sold yet.,Apple held $6bn of inventories.,current assets,
+L02,Balance sheet,retained earnings,noun phrase,Profits the company kept instead of paying out.,Share capital plus retained profits make up equity.,equity; dividend,
+L02,Balance sheet,share capital,noun phrase,Money the company raised by issuing shares.,Apple raised $94bn in share capital.,equity,
+L02,Funding,debt,noun,"A promise to repay, with interest. A fixed claim, paid first.",A bank loan or a bond is debt.,opposite: equity,"Debt = fixed promise you MUST keep. No vote, no upside."
+L02,Funding,fixed claim,noun phrase,"A right to a set amount of money, paid before the owners get anything.","Lenders have a fixed claim: they get paid a set amount, first.",opposite: residual claim,
+L02,Funding,residual claim,noun phrase,"A right only to what is left over, after everyone else is paid.","Owners have a residual claim: they get what is left, last.",opposite: fixed claim,
+L02,Funding,to service debt,verb phrase,To keep making the required payments on a loan.,Debt must be serviced: miss a payment and you can be forced under.,refinancing risk,
+L02,Funding,capital structure,noun phrase,The mix of debt and equity a firm uses to fund itself.,"Every company, from a start-up to Tesco, chooses a point on this dial.",leverage; Modigliani-Miller,
+L02,Funding,to dilute,verb,To reduce each existing owner's share by issuing new shares.,Give away equity and you dilute your ownership forever.,equity,
+L02,Funding,leverage,noun,Using debt to amplify returns. It makes good years great and bad years fatal.,Firm B with half debt earned 15% in a good year but -1% in a bad one.,capital structure; ROE,Leverage magnifies returns AND losses. Classic MCQ trap.
+L02,Funding,return on equity (ROE),noun phrase,Profit divided by the owners' equity.,ROE = profit / owners' equity.,leverage,
+L02,Funding,business risk,noun phrase,"The risk in the business itself: will people buy, will costs jump.",Business risk comes with the industry and is largely given.,vs financial risk,You INHERIT business risk.
+L02,Funding,financial risk,noun phrase,The extra risk you add by funding with debt and its fixed payments.,Financial risk is entirely your choice.,vs business risk,You CHOOSE financial risk. Know this pair.
+L02,Funding,Modigliani-Miller (M&M),noun phrase,"In a perfect world with no taxes or bankruptcy, the debt-equity mix does not change a firm's value.","Same pie, different slices.",tax shield; distress cost,
+L02,Funding,tax shield,noun phrase,The value gained because interest payments are deducted before tax.,Borrow GBP 100m at 5%; at 25% tax that saves GBP 1.25m a year.,raises value,
+L02,Funding,distress cost,noun phrase,"The expected cost of going bankrupt, which eats into a firm's value.",Too much debt raises the chance of bankruptcy.,lowers value,
+L02,Funding,optimal capital structure / sweet spot,noun phrase,The debt level that maximises a firm's value.,Net the tax shield against distress cost and you get a sweet spot.,M&M,
+L02,Funding,to refinance,verb,To replace old debt with new debt.,Most big borrowers never really repay; they issue new debt to pay off the old.,refinancing risk; to roll over,
+L02,Funding,refinancing risk,noun phrase,"The risk that you cannot replace old debt, or only at a much higher rate.",Thames Water nearly sank under GBP 20bn of debt it could not refinance.,to roll over,"""A borrower rarely dies because it must repay. It dies because it cannot refinance."""
+L02,Funding,to roll over (debt),verb phrase,To replace a maturing loan with a new one.,"The real question is not can they repay, but can they roll it over.",to refinance,
+L02,Funding,perpetual,noun,A bond that never matures and just pays interest forever.,"Debt must be repaid, except perpetuals.",bond,
+L02,Funding,buyback,noun,When a company buys its own shares back from investors.,Apple bought back over $700bn of its own shares in a decade.,dividend,
+L02,Funding,dividend,noun,A share of profits paid out to the owners.,Dividends and buybacks are how the upside reaches owners.,retained earnings,
+L02,Funding,limited liability,noun phrase,"You can lose what you put in, but no more. Your other assets are safe.",Limited liability is why people are willing to buy equity.,equity,
+L02,Waterfall,cash-flow waterfall,noun phrase,The order in which people get paid when a company collapses.,"Senior lenders first, then junior debt, then preference shares, then owners last.",seniority,
+L02,Waterfall,senior debt,noun phrase,"Debt that is paid first, before all other claims.",Secured banks and bonds are senior lenders.,opposite: junior debt,
+L02,Waterfall,mezzanine / junior debt,noun phrase,"Debt ranked behind senior lenders, so it is riskier and pays a higher rate.",Common in buyouts; it lets a firm borrow more than banks alone allow.,senior debt,
+L02,Waterfall,preference shares,noun phrase,"A debt-equity hybrid: a fixed dividend, paid before ordinary shares, usually no vote.",Buffett bought $5bn of Goldman Sachs prefs paying 10% a year in 2008.,hybrid,
+L02,Waterfall,ordinary shareholders,noun phrase,"The owners, paid last of all.",Equity is called the first loss because owners are paid last.,residual claim,Carillion 2018: shareholders wiped out completely.
+L02,Waterfall,first loss,noun phrase,The claim that absorbs losses before anyone else.,Equity is the first loss.,equity,
+L02,Waterfall,to be wiped out,verb phrase,To lose everything.,Carillion's shareholders were wiped out completely.,first loss,
+L02,Intermediaries,agency (a broker),noun phrase,An intermediary that introduces two sides. The deal never lands on its own balance sheet.,"A stockbroker, like an estate agent: sells the house, never owns it.",opposite: principal,THE TEST: does the deal sit on its own balance sheet? Broker no.
+L02,Intermediaries,principal (a transformer),noun phrase,An intermediary that takes the asset onto its OWN balance sheet and transforms it.,A bank turns your deposit (a liability) into a loan (an asset).,opposite: agency,Transformer yes: it bears the risk and earns the spread.
+L02,Intermediaries,market maker,noun phrase,"A firm that buys shares onto its own books and resells them, keeping the spread.",Market makers quote the prices in the secondary market.,bid-ask spread; principal,
+L02,Intermediaries,bid-ask spread,noun phrase,The gap between the price you can sell at and the price you can buy at.,The market maker keeps the bid-ask spread as its reward.,market maker,
+L02,Intermediaries,commission / fee,noun,"A payment for a service, not a share of the risk.",A broker earns a fee or commission.,agency,
+L02,Markets,primary market,noun phrase,Where brand-new securities are sold to raise fresh money for the issuer.,"IPOs, new bond issues and rights issues. About $30tn of bonds in 2025.",opposite: secondary market,Primary = company GETS the money.
+L02,Markets,secondary market,noun phrase,Where existing securities change hands between investors. No new money for the company.,Everyday trading on the LSE and NYSE.,opposite: primary market,"Secondary = the SELLER gets your money, not the company."
+L02,Markets,IPO (initial public offering),noun phrase,The first sale of a company's shares to the public.,SpaceX raised about $75bn in the largest IPO in history.,primary market,
+L02,Markets,underwriting,noun,"When a bank guarantees the sale of new securities, for a fee.",Investment banks underwrite new issues.,primary market,
+L02,Markets,funding liquidity,noun phrase,Whether cash can actually reach the company.,The primary market provides funding liquidity.,vs market liquidity,
+L02,Markets,market liquidity,noun phrase,Whether you can sell your investment whenever you want.,The secondary market provides market liquidity.,vs funding liquidity; see L04,
+L02,Markets,price discovery,noun phrase,The way trading reveals what something is really worth.,Secondary markets provide liquidity and price discovery.,secondary market,
+L03,What a bank is,bank,noun,"An institution with a licence to take deposits, and so to create money.",A bank is not a vault. It is licensed to create deposits.,deposit; money creation,
+L03,What a bank is,deposit,noun,"Money you put in a bank. Your asset, the bank's liability.",About 97% of all money is just bank deposits.,liability,
+L03,What a bank is,on demand,phrase,"Available whenever you ask for it, with no notice.","GBP 1 in the bank is always worth GBP 1, and you can take it out on demand.",fixed value; liquidity,
+L03,What a bank is,payments system,noun phrase,"The machinery that moves money: cards, transfers, salaries.",Banks run the payments system.,settlement,
+L03,What a bank is,credit,noun,"Money lent, which lets people and firms spend before they have earned it.",Banks provide the credit that lubricates the whole economy.,loan; money creation,
+L03,Transformation,maturity transformation,noun phrase,Borrowing short and lending long.,Lloyds funds GBP 481bn of long loans with GBP 496bn that can leave at short notice.,liquidity risk,"THE core trick. It is what a bank IS, and why it is fragile."
+L03,Transformation,risk transformation,noun phrase,Turning many risky single loans into a predictable pool.,"Each loan is risky, but across thousands the pool is predictable.",law of large numbers,
+L03,Transformation,law of large numbers,noun phrase,The idea that an average becomes predictable when you have very many cases.,"Spread across thousands of loans, losses become predictable.",risk transformation,
+L03,Transformation,fractional reserve,noun phrase,"Keeping only a fraction of deposits as cash, and lending the rest out.",The 17th-century London goldsmiths invented this.,maturity transformation,
+L03,Transformation,money creation,noun phrase,"Banks create money by lending, and cancel it when loans are repaid.",Banks do not print money. The money supply is lending minus repayments.,credit; money supply,
+L03,Transformation,money supply,noun phrase,The total amount of money in the economy.,"Low rates lead to more borrowing, which increases the money supply.",money creation; Bank Rate,
+L03,Transformation,creditworthy,adjective,Likely enough to repay that a lender will lend to you.,Money creation is not unlimited: it needs creditworthy borrowers.,credit rating,
+L03,Credit risk,credit risk,noun phrase,The risk that a borrower does not repay.,Banks price credit risk into the interest rate.,expected loss; PD; LGD,
+L03,Credit risk,expected loss,noun phrase,The loss a bank can predict on average. Expected loss = PD x LGD x amount.,"2% x 40% x GBP 1,000 = GBP 8.",PD; LGD,Expected losses come out of REVENUE. Memorise the formula.
+L03,Credit risk,probability of default (PD),noun phrase,The chance that a borrower fails to repay.,History says this type of borrower defaults 2% of the time.,expected loss,
+L03,Credit risk,loss given default (LGD),noun phrase,How much of the money you lose if the borrower does default.,The bank loses 40% when they do.,expected loss,
+L03,Credit risk,to default,verb,To fail to make the payments you promised.,Sri Lanka defaulted in April 2022.,PD; default rate,
+L03,Credit risk,unexpected loss,noun phrase,"Losses in a bad year, worse than the average. These eat into equity.",Unexpected losses are taken by shareholder funds.,expected loss,Expected hits revenue; UNEXPECTED hits equity. Exam pair.
+L03,Fragility,fragile,adjective,Easily broken.,"A bank is fragile: fixed liabilities, variable assets, only ~5% equity.",bank run,
+L03,Fragility,cushion,noun,A buffer of equity that absorbs losses before anyone else is hurt.,Lloyds has a wafer-thin ~5% cushion.,capital; equity,
+L03,Fragility,bank run,noun phrase,When many people rush to take their money out at the same time.,"SVB 2023: $42bn gone in a single day, about 85% of deposits.",liquidity crisis,Self-fulfilling: the fear causes the failure.
+L03,Fragility,self-fulfilling,adjective,Something that happens because people believe it will happen.,A bank run is self-fulfilling.,bank run,
+L03,Fragility,illiquid,adjective,"Sound, but cannot find cash TODAY. A cash-flow problem. A loan could save it.","Its assets are good, just locked up long while depositors want cash now.",opposite: insolvent,THE killer distinction. Illiquid = SAVABLE.
+L03,Fragility,insolvent,adjective,Genuinely bust: owes more than it owns. A balance-sheet problem.,Its loans have gone bad; a loan just delays the end.,opposite: illiquid,"Insolvent = BUST. Geithner: ""critical and very hard to do""."
+L03,Safety net,safety net,noun phrase,The layers that stop a shock reaching depositors.,"Capital absorbs losses, deposit insurance stops panic, the central bank is the backstop.",capital; FSCS; lender of last resort,
+L03,Safety net,capital,noun,The equity cushion that absorbs losses first. 10-12% of risk-weighted assets.,Capital absorbs the loss before depositors are touched.,cushion; Basel,"In banking ""capital"" means the EQUITY buffer, not just money."
+L03,Safety net,risk-weighted assets,noun phrase,"Assets counted according to how risky they are, for capital rules.",Capital is 10-12% of risk-weighted assets.,capital; Basel,
+L03,Safety net,liquidity buffer,noun phrase,Cash kept ready to meet a sudden rush of withdrawals.,Liquidity buffers meet the rush.,liquidity risk,
+L03,Safety net,deposit insurance,noun phrase,"A promise that savers get their money back if the bank fails, so they have no reason to run.","The FSCS covers GBP 110,000 per saver.",FSCS; bank run,"The slide says GBP 110,000 in one place and GBP 120k in another. Check with the lecturer."
+L03,Safety net,FSCS,proper noun,Financial Services Compensation Scheme: the UK deposit insurance body.,The FSCS removes the reason to run.,deposit insurance,
+L03,Safety net,lender of last resort,noun phrase,"The central bank, which lends cash when nobody else will.",It lends against good loans to save an illiquid but solvent bank.,central bank; illiquid,
+L03,Safety net,backstop,noun,The final support behind everything else.,The central bank is the final backstop.,lender of last resort,
+L03,Safety net,Basel rules,proper noun,International rules that force banks to hold more equity and liquidity.,"After 2008, Basel forced the cushion to roughly triple.",capital; stress test,
+L03,Safety net,stress test,noun phrase,A check of whether a bank would survive a severe but plausible crisis.,Basel added liquidity buffers and stress tests.,Basel rules,
+L03,Safety net,supervision,noun,"Official watching of banks, to spot trouble early.",Bank of England supervision and rules spot the trouble early.,regulator,
+L03,Central bank,central bank,noun phrase,"The public institution that issues base money, sets rates and backs the banks.",The Bank of England IS the safety net.,monetary policy; QE,
+L03,Central bank,monetary policy,noun phrase,Using interest rates to steer inflation and the economy.,Rates went from 0.1% to 5.25% to break 11% inflation.,Bank Rate,
+L03,Central bank,quantitative easing (QE),noun phrase,"The central bank creates new money and buys government bonds, pushing interest rates down.",Used when Bank Rate is already near zero and cannot be cut further.,opposite: QT,Bond price UP means interest rate DOWN. GBP 5 on GBP 100 is 5%; on GBP 125 it is 4%.
+L03,Central bank,quantitative tightening (QT),noun phrase,The reverse of QE: the bank sells bonds back and money leaves the system.,QT takes the money back out.,opposite: QE,
+L03,Central bank,reserves,noun,Money commercial banks hold in their accounts at the central bank.,Central-bank money is cash plus reserves: the base.,base money; settlement,
+L03,Investment bank,investment bank,noun phrase,"A bank with no retail deposits, that works in the markets instead.","Goldman Sachs, JP Morgan, Morgan Stanley.",vs commercial bank,"No deposits means no classic bank run, and a lighter licence."
+L03,Investment bank,commercial bank,noun phrase,A bank that takes your deposits and lends them out.,It creates the ~97% of money and sits inside the safety net.,vs investment bank,
+L03,Investment bank,retail deposits,noun phrase,Deposits from ordinary people and small businesses.,An investment bank takes no retail deposits.,deposit,
+L03,Investment bank,capital markets,noun phrase,The markets where issuers and investors meet to trade securities.,An investment bank connects issuers and investors in the capital markets.,primary market,
+L03,Investment bank,to raise capital / underwrite,verb phrase,"To take a company public or issue its bonds, guaranteeing the sale for a fee.",Raising capital is underwriting.,IPO; underwriting,
+L03,Investment bank,M&A (mergers and acquisitions),noun phrase,Advising on companies buying and selling other companies.,M&A advice is the module convenor's own field.,investment bank,
+L03,Investment bank,sales and trading,noun phrase,Buying and selling securities for clients and with the bank's own money.,"Trading earned Goldman $31bn in 2025, more than deal fees at $9.3bn.",agency; principal trading,
+L03,Investment bank,principal trading,noun phrase,"Trading with the bank's own money, at its own risk.",It is powerful but risky; it helped sink banks in 2008.,vs agency,
+L03,Investment bank,conflict of interest,noun phrase,When one firm serves sides whose interests clash.,The same bank advises a company AND trades for investors AND bets its own capital.,Chinese walls,
+L03,Investment bank,Chinese walls,noun phrase,"Strict information barriers inside a bank, between advising and trading.",They stop secret client information reaching the traders.,conflict of interest,
+L03,Investment bank,front / middle / back office,noun phrase,"The deal-makers, the risk controllers, and the settlement engine, kept separate.",Keeping them separate is a control.,Chinese walls,
+L03,Investment bank,insider dealing,noun phrase,Trading on secret information that the public does not have.,Regulators watch for insider dealing and abuse.,Chinese walls,
+L03,Investment bank,Glass-Steagall,proper noun,The 1933 US law that legally separated commercial and investment banking.,Deposits must not fund risky trading.,ring-fencing,
+L03,Investment bank,universal bank,noun phrase,A bank that does both commercial and investment banking under one roof.,The 1999 repeal allowed universal banks.,Glass-Steagall,
+L03,Investment bank,ring-fencing,noun,New rules that wall off everyday deposits from risky trading.,Ring-fencing protects you and the system.,Glass-Steagall,
+L03,Investment bank,bailout,noun,When the state rescues a failing firm with public money.,In 2008 taxpayers bailed out the deposit-taking giants.,safety net,
+L04,What money is,money,noun,"Anything that does three jobs: medium of exchange, store of value, unit of account.","Money is defined by what it DOES, not what it is made of.",the three jobs,Run the three-job test. Only what passes all three is money.
+L04,What money is,medium of exchange,noun phrase,"Everyone accepts it, so you can swap it for anything. No need to barter.",You can use cash in any shop.,opposite: barter,
+L04,What money is,store of value,noun phrase,"It holds its worth over time, so you can save today and spend next year.",People save cash because it is a store of value.,one of the three jobs,
+L04,What money is,unit of account,noun phrase,The common ruler we price everything in.,"A coffee is GBP 3, a car is GBP 30,000.",one of the three jobs,
+L04,What money is,barter,noun / verb,"Swapping one good directly for another, without money.","Without money, people must barter shoes for bread.",opposite: medium of exchange,
+L04,What money is,trust,noun,The shared belief that makes money work.,"""Money works only because we all believe it does.""",shared social contract,The answer is not gold and not the law. It is TRUST.
+L04,What money is,shared social contract,noun phrase,An unwritten agreement by everyone to accept something as money.,A banknote works because of the social contract behind it.,trust,
+L04,What money is,bearer,noun,Whoever is holding the note.,"""I promise to pay the bearer on demand the sum of ten pounds.""",on demand,
+L04,What money is,IOU,noun,"A written promise to pay. Literally ""I owe you"".",A banknote is an IOU from the central bank.,liability,
+L04,Types of money,commodity money,noun phrase,"Money that is valuable in itself, like gold and silver coins.",Gold coins were worth their weight.,opposite: fiat money,
+L04,Types of money,representative money,noun phrase,Paper that is a claim on a commodity you can swap it for.,The old gold-backed note.,gold standard,
+L04,Types of money,gold standard,noun phrase,A system where each note can be swapped for a fixed amount of gold.,It ran from the 1800s to 1971.,gold convertibility,
+L04,Types of money,gold convertibility,noun phrase,The right to exchange paper money for gold.,Nixon ended it in 1971.,gold standard,
+L04,Types of money,fiat money,noun phrase,Money that has value because the state says so and we all believe it. Backed by nothing else.,"""Fiat"" means ""let it be"". Today's cash is fiat money.",opposite: commodity money,
+L04,Types of money,electronic / bank money,noun phrase,Digital deposits: numbers on a bank's computer. About 97% of money.,"Most UK money is bank money, not cash.",deposit,
+L04,Types of money,near-money,noun,An asset you can turn into cash very easily and spend like money.,"PayPal, M-Pesa and wallets.",e-money,
+L04,Types of money,e-money,noun,Electronic money held in apps and digital wallets.,A PayPal balance is e-money.,near-money,
+L04,Types of money,currency,noun,The physical notes and coins.,Money is not currency: cash is only ~3% of money.,vs money,Common MCQ trap: money is much broader than currency.
+L04,Types of money,money pyramid / hierarchy of money,noun phrase,"The layers of money, with the safest (central-bank money) at the base.",About GBP 745bn of state money sits under GBP 3.2tn of bank money.,central-bank money,Safest layer is the SMALLEST.
+L04,Inflation,inflation,noun,"Prices rising, so each GBP 1 buys a little less every year.",The Bank of England targets 2%: money is designed to leak slowly.,quiet tax; real terms,
+L04,Inflation,quiet tax,noun phrase,A loss of buying power that arrives with no vote and no bill.,"Inflation shrinks the national debt in real terms, quietly.",inflation,"Who pays: cash holders and fixed-rate lenders. Who gains: borrowers, above all the state."
+L04,Inflation,real terms,noun phrase,Values measured after removing the effect of inflation.,GBP 100 in 2020 buys about GBP 80 of goods today.,opposite: nominal terms,
+L04,Inflation,buying power / purchasing power,noun phrase,How much your money can actually buy.,Your savings account lost buying power every year since 2021.,inflation,
+L04,Inflation,hyperinflation,noun,Inflation so extreme that money stops doing all three jobs.,Zimbabwe printed a 100-trillion-dollar note.,inflation,"Mechanism: foreign income collapses, so wages are paid by printing, every month."
+L04,Inflation,independent (central bank),adjective,"Able to refuse the government, and so able to say no to printing.",The cure for hyperinflation is a central bank that can say no.,central bank,
+L04,Liquidity,liquidity,noun,How quickly and cheaply you can turn an asset into cash without dropping its price.,Cash is perfectly liquid. A house is illiquid.,liquidity premium,NOT wealth and NOT solvency. You can be rich but illiquid.
+L04,Liquidity,liquidity spectrum,noun phrase,The line from instant cash to assets that take years to sell.,"Cash, deposits, gov bonds, shares, property, art.",liquidity,
+L04,Liquidity,liquidity premium,noun phrase,The extra return a less-liquid asset must pay you for tying your money up.,"A 10-year gilt yields less than a loan to a small firm, partly because you can sell the gilt instantly.",liquidity,
+L04,Liquidity,liquidity risk,noun phrase,The gap between what you have promised and what you actually hold.,A property fund promising daily withdrawals owns buildings that take months to sell.,maturity transformation,
+L04,Liquidity,liquidity crisis,noun phrase,"When an institution cannot get cash fast enough, even though it still has value.",A bank run is in most cases really a liquidity crisis.,illiquid,
+L04,Liquidity,market run,noun phrase,When all investors try to sell at the same time.,"March 2020: everyone sold at once, even US Treasuries. The Fed bought $3tn in three months.",bank run; fund run,
+L04,Liquidity,fund run,noun phrase,"When investors all try to withdraw from a fund at once, forcing it to sell.","September 2022: pension funds sold gilts, pushing prices lower, forcing more selling.",doom loop,
+L04,Liquidity,doom loop / liquidity spiral,noun phrase,"Selling pushes prices down, which forces still more selling.",The Bank of England bought GBP 19bn of gilts in two weeks to stop the spiral.,fund run,Exam favourite: why did selling gilts make 2022 worse?
+L04,Liquidity,to liquidate,verb,To sell assets to turn them into cash.,In March 2020 everyone liquidated at once.,liquidity,
+L04,Liquidity,collateral,noun,Something you pledge to a lender in case you cannot pay.,Pension funds had to post cash collateral as gilt prices fell.,collateral call,
+L04,Payments,cashless,adjective,Using little or no physical cash.,Cash fell from over half of UK payments in 2011 to below 10% today.,tap society,
+L04,Payments,to settle / settlement,verb / noun,To finally move the money between banks and close the payment.,The Bank's settlement system moves about GBP 350bn a day.,reserves,Nothing physical moves. A payment just reassigns bank deposits.
+L04,Payments,to authorise,verb,To check the money is there and approve the payment.,Visa or Faster Payments checks in seconds.,payments system,
+L04,Payments,to debit / to credit,verb,To take money out of an account / to put money into an account.,Your bank debits your account; the shop's bank credits theirs.,settlement,
+L04,Future of money,Bitcoin,proper noun,"A digital currency with a fixed supply of 21 million, run by code, with no bank or state.","Launched January 2009, weeks after the bailouts.",speculative asset,"Today it FAILS all three jobs of money. It is ""digital gold""."
+L04,Future of money,blockchain,noun,"A public record of verified payments sealed into blocks, each locked to the one before.",Nobody can rewrite history.,distributed ledger,
+L04,Future of money,ledger,noun,The record of who owns what.,A bank keeps one private ledger; Bitcoin shares a public one.,blockchain,
+L04,Future of money,legal tender,noun phrase,Money that the law says must be accepted to settle a debt.,El Salvador made Bitcoin legal tender in 2021 and dropped the law in 2025.,fiat money,
+L04,Future of money,stablecoin,noun,"A crypto token pegged 1-to-1 to the dollar, with the dollar held in reserve.",Tether and Circle (USDC) keep the interest on the reserves.,pegged; reserve,The catch: NO deposit insurance. Terra went to zero in 2022.
+L04,Future of money,pegged,adjective,Kept at a fixed value against another asset.,A stablecoin is pegged to the dollar.,stablecoin,
+L04,Future of money,reserve,noun,Safe assets held to back a promise to holders.,Issuers hold the dollars in Treasury bills and bank deposits.,stablecoin,"Careful: in L03 ""reserves"" means money at the central bank. Different meaning here."
+L04,Future of money,Treasury bills,noun phrase,"Short-term US government debt, used as a safe place to hold value.",Stablecoin issuers hold reserves in Treasury bills.,reserve,
+L04,Future of money,CBDC (Central Bank Digital Currency),noun phrase,"Digital money issued by the central bank itself, that you could hold directly.",A CBDC opens the base of the pyramid to everyone.,digital pound,~130 countries are exploring one. China e-CNY is live.
+L04,Future of money,digital pound,noun phrase,The UK's planned CBDC.,"Holdings would be capped at GBP 10,000-20,000 and pay no interest.",CBDC,"A backstop, not a savings account."
+L05,Four sectors,sector,noun,One of the four great groups the whole economy divides into.,"Households, companies, government and overseas.",four sectors,
+L05,Four sectors,households,noun,Us. Natural persons. We supply the labour and bear all the risk in the end.,"Households are the economy's net savers, about +2.3% of GDP.",net saver,Households bear ALL the risk: every loss lands on people in the end.
+L05,Four sectors,companies (the corporate sector),noun,"Firms that produce goods and services. They invest, and usually borrow to do it.",AstraZeneca borrows to build labs.,net borrower,
+L05,Four sectors,government (the sovereign),noun,"The state: it taxes, spends and borrows. Near-infinite life, lowest domestic risk.",UK government debt is about 95% of GDP.,gilt; deficit,
+L05,Four sectors,overseas (rest of the world),noun phrase,Every other country we trade and invest with.,Roughly a third of UK gilts are held by overseas investors.,current account,
+L05,Flows,surplus unit,noun phrase,"Someone who earns more than they spend, and so lends.","Savers, mainly households, are surplus units.",opposite: deficit unit,
+L05,Flows,deficit unit,noun phrase,"Someone who spends more than they earn, and so borrows.","Borrowers, mainly companies and government.",opposite: surplus unit,
+L05,Flows,net saver,noun phrase,"A sector that saves more than it borrows, taken as a whole.",Households are the only domestic net savers.,opposite: net borrower,
+L05,Flows,net borrower,noun phrase,"A sector that borrows more than it saves, taken as a whole.",Companies are usually net borrowers because they invest.,opposite: net saver,
+L05,Flows,net lending,noun phrase,"How much a sector lends to the others, after its own borrowing.","Households +2.3, companies -0.5, government -4.6, overseas +2.8.",sectoral balances,
+L05,Flows,saving ratio,noun phrase,The share of their income that households save.,"A record 27% in spring 2020, then 8.9% by 2026.",households,
+L05,Flows,GDP,noun,The total value of everything a country produces in a year.,The UK produces about GBP 2.8 trillion a year.,% of GDP,"""+2.3% of GDP"" just means 2.3% of the country's yearly output."
+L05,Flows,claim,noun,"A right to be paid: interest, dividends or repayment.",Money flows one way; claims flow back the other.,capital flow,
+L05,Government,deficit,noun,Spending more than you take in.,The UK government spends 4.6% of GDP more than it taxes.,opposite: surplus,
+L05,Government,surplus,noun,Taking in more than you spend.,Germany runs a persistent current-account surplus.,opposite: deficit,
+L05,Government,national debt,noun phrase,"The total a government owes, built up from past deficits.",About 95% of GDP; interest cost GBP 97.6bn in 2025-26.,gilt; deficit,
+L05,Government,debt interest,noun phrase,What a government pays each year just to service its debt.,"GBP 97.6bn, more than one and a half times the defence budget.",national debt,
+L05,Government,gilt yield,noun phrase,The interest rate lenders demand to hold UK government debt.,"The 30-year gilt yield passed 6% in October 2026, the highest since 1998.",gilt; yield,"Lenders set the rate. Doubt the plan, demand more interest."
+L05,Government,risk-free rate,noun phrase,"The rate on the safest borrower, used to price everything else.",Gilts set the risk-free rate that anchors all of finance.,gilt,
+L05,Government,at auction,phrase,"Sold to the highest bidders, in a public sale.",The government sells gilts at auction.,gilt; primary market,
+L05,Overseas,current account,noun phrase,"Over a year, does a country sell more to the world (exports) than it buys (imports)?",The UK runs a deficit of about -2.8% of GDP.,exports; imports,
+L05,Overseas,exports / imports,noun,Goods and services we sell to the world / buy from the world.,"We import more cars, phones, gas and food than we export.",current account,
+L05,Overseas,trade deficit,noun phrase,Buying more from the world than you sell to it.,"To pay for it, we must borrow from foreigners or sell them our assets.",current account,
+L05,Overseas,kindness of strangers,phrase,A deficit country depends on foreigners keeping the faith.,It is a famous phrase for exactly this dependence.,current account,
+L05,Overseas,reserve currency,noun phrase,"A currency the whole world holds and uses, which lets its issuer borrow almost without limit.","The dollar's status is the US ""exorbitant privilege"".",global savings glut,
+L05,Overseas,to devalue,verb,To let your currency fall in value.,"In the euro, Greece could not print its own money or devalue.",currency,
+L05,Overseas,global savings glut,noun phrase,"When some economies save far more than they invest, and lend the rest to the world.","China, Germany, Japan and the Gulf run persistent surpluses.",Bernanke,"It pushed world interest rates down and, many argue, helped inflate the 2008 bubble."
+L05,The identity,sectoral balances identity,noun phrase,The rule that all four sectors must add up to zero: (S-I) + (T-G) + (M-X) = 0.,UK: 1.8 - 4.6 + 2.8 = 0.,the iron law,Know three balances and the fourth is LOCKED. Guaranteed exam question.
+L05,The identity,the iron law,noun phrase,One sector's deficit must be another's surplus. Always.,Every pound borrowed is a pound someone else saved.,sectoral balances identity,
+L05,The identity,S - I,formula,Saving minus Investment: the private sector (households and firms).,UK: +1.8% of GDP.,sectoral balances identity,
+L05,The identity,T - G,formula,Taxes minus Government spending: the government balance.,"UK: -4.6% of GDP, a deficit.",sectoral balances identity,
+L05,The identity,M - X,formula,iMports minus eXports: the overseas balance.,"UK: +2.8% of GDP. If we buy more than we sell, foreigners lend it back.",sectoral balances identity,
+L05,The identity,twin deficits,noun phrase,Running a government deficit and a trade deficit at the same time.,The 4.6 is funded by UK savers (+1.8) and foreigners (+2.8).,sectoral balances identity,The trade deficit is not a second bill. It is one of the LENDERS.
+L05,The identity,austerity,noun,Cutting government spending to reduce the deficit.,"If the government cuts its deficit, another balance must move.",sectoral balances identity,
+L05,Crises,sovereign debt crisis,noun phrase,"When lenders stop believing a government will repay, and rates soar.","Greece 2009: the deficit was over 12% of GDP, not under 4%.",default,
+L05,Crises,bailout,noun,"A rescue with someone else's money, usually with conditions.","Greece had three bailouts: 2010, 2012, 2015.",sovereign debt crisis,
+L05,Crises,write-off,noun,"Cancelling part of a debt, so lenders never get it back.",Greece's private lenders took a write-off.,default,
+L05,Crises,unfunded,adjective,Announced with no money set aside and no official forecast to back it.,23 September 2022: GBP 45bn of unfunded tax cuts.,gilt crisis,
+L05,Crises,LDI (liability-driven investment),noun phrase,A pension-fund strategy that required posting cash collateral when gilt prices fell.,"Funds had to sell gilts to raise that cash, pushing prices lower still.",doom loop,The 2022 mechanism. Links straight to L04 liquidity spiral.
+L05,Crises,collateral call,noun phrase,"A demand to post more cash or assets, right now.",Pension funds had to post cash collateral as gilt prices fell.,collateral; LDI,
+L05,Crises,sudden stop,noun phrase,When foreign lending to a country halts abruptly.,"Sri Lanka 2022: reserves ran out, the rupee crashed, imports simply stopped.",current account,Owe your OWN currency and money comes back. Owe someone else's and it can stop dead.
+L05,Crises,confidence,noun,The belief of lenders that they will be repaid in money worth having.,"Lenders do not stop gradually. They stop in months, or in days.",sudden stop,
